@@ -2112,6 +2112,7 @@
       <string>guillemetright.case</string>
       <string>guilsinglleft.case</string>
       <string>guilsinglright.case</string>
+      <string>blank-braille</string>
       <string>dots1-braille</string>
       <string>dots12-braille</string>
       <string>dots123-braille</string>
@@ -3383,6 +3384,8 @@
       <string>uni0431</string>
       <key>be-cy.locl</key>
       <string>uni0431.locl</string>
+      <key>blank-braille</key>
+      <string>uni2800</string>
       <key>boxDoubleDownAndHorizontal</key>
       <string>uni2566</string>
       <key>boxDoubleDownAndLeft</key>

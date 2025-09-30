@@ -1146,6 +1146,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.beta</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.blank-braille</key>
+      <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.boxDoubleDownAndHorizontal</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.boxDoubleDownAndLeft</key>
