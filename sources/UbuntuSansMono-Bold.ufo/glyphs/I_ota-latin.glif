@@ -2,6 +2,7 @@
 <glyph name="Iota-latin" format="2">
   <advance width="560"/>
   <unicode hex="0196"/>
+  <unicode hex="0269"/>
   <anchor x="280" y="0" name="bottom"/>
   <anchor x="280" y="685" name="top"/>
   <outline>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dots78-braille" format="2">
+  <advance width="560"/>
+  <unicode hex="28C0"/>
+  <outline>
+    <component base="dots7-braille"/>
+    <component base="dots8-braille"/>
+  </outline>
+</glyph>

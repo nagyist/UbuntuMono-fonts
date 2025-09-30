@@ -31,7 +31,7 @@
       </dict>
     </dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3227</string>
+    <string>3343</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Export Mac Name Table Entries</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.Family Alignment Zones</key>
@@ -1410,17 +1410,18 @@
       <string>Edblgrave</string>
       <string>Einvertedbreve</string>
       <string>Eopen</string>
-      <string>Ereversed</string>
       <string>Esh</string>
       <string>Estroke</string>
+      <string>Eturned</string>
       <string>Schwa</string>
       <string>Ezh</string>
       <string>Ezhcaron</string>
       <string>Ezhreversed</string>
       <string>Fhook</string>
       <string>Gacute</string>
+      <string>Gha</string>
       <string>Ghook</string>
-      <string>Glottalstop</string>
+      <string>Glottalstopsmall</string>
       <string>Gstroke</string>
       <string>Yogh</string>
       <string>Hcaron</string>
@@ -1445,13 +1446,12 @@
       <string>Nj</string>
       <string>Nlongrightleg</string>
       <string>OU</string>
+      <string>Obarred</string>
       <string>Ocaron</string>
-      <string>Ocenteredtilde</string>
       <string>Odblgrave</string>
       <string>Odieresismacron</string>
       <string>Odotaccent</string>
       <string>Odotaccentmacron</string>
-      <string>Oi</string>
       <string>Oinvertedbreve</string>
       <string>Oogonek</string>
       <string>Oogonekmacron</string>
@@ -1519,12 +1519,13 @@
       <string>ezhreversed</string>
       <string>ezhtail</string>
       <string>gacute</string>
+      <string>gha</string>
       <string>glottalinvertedstroke</string>
       <string>glottalstopsmall</string>
       <string>gstroke</string>
       <string>yogh</string>
       <string>hcaron</string>
-      <string>hv</string>
+      <string>hwair</string>
       <string>idotless</string>
       <string>idotless_dotbelowcomb</string>
       <string>idotless_ogonekcomb</string>
@@ -1540,20 +1541,19 @@
       <string>jstroke</string>
       <string>kcaron</string>
       <string>khook</string>
-      <string>lambdastroke</string>
+      <string>lambdastroke-latin</string>
       <string>lbar</string>
       <string>lcurl</string>
       <string>lj</string>
       <string>ncurl</string>
       <string>ngrave</string>
       <string>nj</string>
-      <string>nlegrightlong</string>
+      <string>nlongrightleg</string>
       <string>ocaron</string>
       <string>odblgrave</string>
       <string>odieresismacron</string>
       <string>odotaccent</string>
       <string>odotaccentmacron</string>
-      <string>oi</string>
       <string>oinvertedbreve</string>
       <string>oogonek</string>
       <string>oogonekmacron</string>
@@ -1629,8 +1629,8 @@
       <string>Ushort-cy</string>
       <string>Ef-cy</string>
       <string>Ha-cy</string>
-      <string>Che-cy</string>
       <string>Tse-cy</string>
+      <string>Che-cy</string>
       <string>Sha-cy</string>
       <string>Shcha-cy</string>
       <string>Dzhe-cy</string>
@@ -1736,8 +1736,8 @@
       <string>ushort-cy</string>
       <string>ef-cy</string>
       <string>ha-cy</string>
-      <string>che-cy</string>
       <string>tse-cy</string>
+      <string>che-cy</string>
       <string>sha-cy</string>
       <string>shcha-cy</string>
       <string>dzhe-cy</string>
@@ -2112,6 +2112,264 @@
       <string>guillemetright.case</string>
       <string>guilsinglleft.case</string>
       <string>guilsinglright.case</string>
+      <string>dots1-braille</string>
+      <string>dots12-braille</string>
+      <string>dots123-braille</string>
+      <string>dots1234-braille</string>
+      <string>dots12345-braille</string>
+      <string>dots123456-braille</string>
+      <string>dots1234567-braille</string>
+      <string>dots12345678-braille</string>
+      <string>dots1234568-braille</string>
+      <string>dots123457-braille</string>
+      <string>dots1234578-braille</string>
+      <string>dots123458-braille</string>
+      <string>dots12346-braille</string>
+      <string>dots123467-braille</string>
+      <string>dots1234678-braille</string>
+      <string>dots123468-braille</string>
+      <string>dots12347-braille</string>
+      <string>dots123478-braille</string>
+      <string>dots12348-braille</string>
+      <string>dots1235-braille</string>
+      <string>dots12356-braille</string>
+      <string>dots123567-braille</string>
+      <string>dots1235678-braille</string>
+      <string>dots123568-braille</string>
+      <string>dots12357-braille</string>
+      <string>dots123578-braille</string>
+      <string>dots12358-braille</string>
+      <string>dots1236-braille</string>
+      <string>dots12367-braille</string>
+      <string>dots123678-braille</string>
+      <string>dots12368-braille</string>
+      <string>dots1237-braille</string>
+      <string>dots12378-braille</string>
+      <string>dots1238-braille</string>
+      <string>dots124-braille</string>
+      <string>dots1245-braille</string>
+      <string>dots12456-braille</string>
+      <string>dots124567-braille</string>
+      <string>dots1245678-braille</string>
+      <string>dots124568-braille</string>
+      <string>dots12457-braille</string>
+      <string>dots124578-braille</string>
+      <string>dots12458-braille</string>
+      <string>dots1246-braille</string>
+      <string>dots12467-braille</string>
+      <string>dots124678-braille</string>
+      <string>dots12468-braille</string>
+      <string>dots1247-braille</string>
+      <string>dots12478-braille</string>
+      <string>dots1248-braille</string>
+      <string>dots125-braille</string>
+      <string>dots1256-braille</string>
+      <string>dots12567-braille</string>
+      <string>dots125678-braille</string>
+      <string>dots12568-braille</string>
+      <string>dots1257-braille</string>
+      <string>dots12578-braille</string>
+      <string>dots1258-braille</string>
+      <string>dots126-braille</string>
+      <string>dots1267-braille</string>
+      <string>dots12678-braille</string>
+      <string>dots1268-braille</string>
+      <string>dots127-braille</string>
+      <string>dots1278-braille</string>
+      <string>dots128-braille</string>
+      <string>dots13-braille</string>
+      <string>dots134-braille</string>
+      <string>dots1345-braille</string>
+      <string>dots13456-braille</string>
+      <string>dots134567-braille</string>
+      <string>dots1345678-braille</string>
+      <string>dots134568-braille</string>
+      <string>dots13457-braille</string>
+      <string>dots134578-braille</string>
+      <string>dots13458-braille</string>
+      <string>dots1346-braille</string>
+      <string>dots13467-braille</string>
+      <string>dots134678-braille</string>
+      <string>dots13468-braille</string>
+      <string>dots1347-braille</string>
+      <string>dots13478-braille</string>
+      <string>dots1348-braille</string>
+      <string>dots135-braille</string>
+      <string>dots1356-braille</string>
+      <string>dots13567-braille</string>
+      <string>dots135678-braille</string>
+      <string>dots13568-braille</string>
+      <string>dots1357-braille</string>
+      <string>dots13578-braille</string>
+      <string>dots1358-braille</string>
+      <string>dots136-braille</string>
+      <string>dots1367-braille</string>
+      <string>dots13678-braille</string>
+      <string>dots1368-braille</string>
+      <string>dots137-braille</string>
+      <string>dots1378-braille</string>
+      <string>dots138-braille</string>
+      <string>dots14-braille</string>
+      <string>dots145-braille</string>
+      <string>dots1456-braille</string>
+      <string>dots14567-braille</string>
+      <string>dots145678-braille</string>
+      <string>dots14568-braille</string>
+      <string>dots1457-braille</string>
+      <string>dots14578-braille</string>
+      <string>dots1458-braille</string>
+      <string>dots146-braille</string>
+      <string>dots1467-braille</string>
+      <string>dots14678-braille</string>
+      <string>dots1468-braille</string>
+      <string>dots147-braille</string>
+      <string>dots1478-braille</string>
+      <string>dots148-braille</string>
+      <string>dots15-braille</string>
+      <string>dots156-braille</string>
+      <string>dots1567-braille</string>
+      <string>dots15678-braille</string>
+      <string>dots1568-braille</string>
+      <string>dots157-braille</string>
+      <string>dots1578-braille</string>
+      <string>dots158-braille</string>
+      <string>dots16-braille</string>
+      <string>dots167-braille</string>
+      <string>dots1678-braille</string>
+      <string>dots168-braille</string>
+      <string>dots17-braille</string>
+      <string>dots178-braille</string>
+      <string>dots18-braille</string>
+      <string>dots2-braille</string>
+      <string>dots23-braille</string>
+      <string>dots234-braille</string>
+      <string>dots2345-braille</string>
+      <string>dots23456-braille</string>
+      <string>dots234567-braille</string>
+      <string>dots2345678-braille</string>
+      <string>dots234568-braille</string>
+      <string>dots23457-braille</string>
+      <string>dots234578-braille</string>
+      <string>dots23458-braille</string>
+      <string>dots2346-braille</string>
+      <string>dots23467-braille</string>
+      <string>dots234678-braille</string>
+      <string>dots23468-braille</string>
+      <string>dots2347-braille</string>
+      <string>dots23478-braille</string>
+      <string>dots2348-braille</string>
+      <string>dots235-braille</string>
+      <string>dots2356-braille</string>
+      <string>dots23567-braille</string>
+      <string>dots235678-braille</string>
+      <string>dots23568-braille</string>
+      <string>dots2357-braille</string>
+      <string>dots23578-braille</string>
+      <string>dots2358-braille</string>
+      <string>dots236-braille</string>
+      <string>dots2367-braille</string>
+      <string>dots23678-braille</string>
+      <string>dots2368-braille</string>
+      <string>dots237-braille</string>
+      <string>dots2378-braille</string>
+      <string>dots238-braille</string>
+      <string>dots24-braille</string>
+      <string>dots245-braille</string>
+      <string>dots2456-braille</string>
+      <string>dots24567-braille</string>
+      <string>dots245678-braille</string>
+      <string>dots24568-braille</string>
+      <string>dots2457-braille</string>
+      <string>dots24578-braille</string>
+      <string>dots2458-braille</string>
+      <string>dots246-braille</string>
+      <string>dots2467-braille</string>
+      <string>dots24678-braille</string>
+      <string>dots2468-braille</string>
+      <string>dots247-braille</string>
+      <string>dots2478-braille</string>
+      <string>dots248-braille</string>
+      <string>dots25-braille</string>
+      <string>dots256-braille</string>
+      <string>dots2567-braille</string>
+      <string>dots25678-braille</string>
+      <string>dots2568-braille</string>
+      <string>dots257-braille</string>
+      <string>dots2578-braille</string>
+      <string>dots258-braille</string>
+      <string>dots26-braille</string>
+      <string>dots267-braille</string>
+      <string>dots2678-braille</string>
+      <string>dots268-braille</string>
+      <string>dots27-braille</string>
+      <string>dots278-braille</string>
+      <string>dots28-braille</string>
+      <string>dots3-braille</string>
+      <string>dots34-braille</string>
+      <string>dots345-braille</string>
+      <string>dots3456-braille</string>
+      <string>dots34567-braille</string>
+      <string>dots345678-braille</string>
+      <string>dots34568-braille</string>
+      <string>dots3457-braille</string>
+      <string>dots34578-braille</string>
+      <string>dots3458-braille</string>
+      <string>dots346-braille</string>
+      <string>dots3467-braille</string>
+      <string>dots34678-braille</string>
+      <string>dots3468-braille</string>
+      <string>dots347-braille</string>
+      <string>dots3478-braille</string>
+      <string>dots348-braille</string>
+      <string>dots35-braille</string>
+      <string>dots356-braille</string>
+      <string>dots3567-braille</string>
+      <string>dots35678-braille</string>
+      <string>dots3568-braille</string>
+      <string>dots357-braille</string>
+      <string>dots3578-braille</string>
+      <string>dots358-braille</string>
+      <string>dots36-braille</string>
+      <string>dots367-braille</string>
+      <string>dots3678-braille</string>
+      <string>dots368-braille</string>
+      <string>dots37-braille</string>
+      <string>dots378-braille</string>
+      <string>dots38-braille</string>
+      <string>dots4-braille</string>
+      <string>dots45-braille</string>
+      <string>dots456-braille</string>
+      <string>dots4567-braille</string>
+      <string>dots45678-braille</string>
+      <string>dots4568-braille</string>
+      <string>dots457-braille</string>
+      <string>dots4578-braille</string>
+      <string>dots458-braille</string>
+      <string>dots46-braille</string>
+      <string>dots467-braille</string>
+      <string>dots4678-braille</string>
+      <string>dots468-braille</string>
+      <string>dots47-braille</string>
+      <string>dots478-braille</string>
+      <string>dots48-braille</string>
+      <string>dots5-braille</string>
+      <string>dots56-braille</string>
+      <string>dots567-braille</string>
+      <string>dots5678-braille</string>
+      <string>dots568-braille</string>
+      <string>dots57-braille</string>
+      <string>dots578-braille</string>
+      <string>dots58-braille</string>
+      <string>dots6-braille</string>
+      <string>dots67-braille</string>
+      <string>dots678-braille</string>
+      <string>dots68-braille</string>
+      <string>dots7-braille</string>
+      <string>dots78-braille</string>
+      <string>dots8-braille</string>
+      <string>ballotBox</string>
+      <string>ballotBoxWithCheck</string>
+      <string>ballotBoxWithX</string>
       <string>checkmark</string>
       <string>crossMark</string>
       <string>published</string>
@@ -2143,7 +2401,35 @@
       <string>increment</string>
       <string>micro</string>
       <string>percent.osf</string>
+      <string>lowerOneEighthBlock</string>
+      <string>lowerOneQuarterBlock</string>
+      <string>lowerThreeEighthsBlock</string>
+      <string>lowerHalfBlock</string>
+      <string>lowerFiveEighthsBlock</string>
+      <string>lowerThreeQuartersBlock</string>
+      <string>lowerSevenEighthsBlock</string>
       <string>fullBlock</string>
+      <string>upperHalfBlock</string>
+      <string>upperOneEighthBlock</string>
+      <string>leftOneEighthBlock</string>
+      <string>leftOneQuarterBlock</string>
+      <string>leftThreeEighthsBlock</string>
+      <string>leftBlock</string>
+      <string>leftFiveEighthsBlock</string>
+      <string>leftThreeQuartersBlock</string>
+      <string>leftSevenEighthsBlock</string>
+      <string>rightBlock</string>
+      <string>rightOneEighthBlock</string>
+      <string>lowerLeftBlock</string>
+      <string>lowerRightBlock</string>
+      <string>upperLeftBlock</string>
+      <string>upperLeftAndLowerLeftAndLowerRightBlock</string>
+      <string>upperLeftAndLowerRightBlock</string>
+      <string>upperLeftAndUpperRightAndLowerLeftBlock</string>
+      <string>upperLeftAndUpperRightAndLowerRightBlock</string>
+      <string>upperRightBlock</string>
+      <string>upperRightAndLowerLeftBlock</string>
+      <string>upperRightAndLowerLeftAndLowerRightBlock</string>
       <string>shadelight</string>
       <string>shademedium</string>
       <string>shadedark</string>
@@ -2162,13 +2448,75 @@
       <string>boxDownDoubleAndHorizontalSingle</string>
       <string>boxDownDoubleAndLeftSingle</string>
       <string>boxDownDoubleAndRightSingle</string>
+      <string>boxDownHeavyAndHorizontalLight</string>
+      <string>boxDownHeavyAndLeftLight</string>
+      <string>boxDownHeavyAndLeftUpLight</string>
+      <string>boxDownHeavyAndRightLight</string>
+      <string>boxDownHeavyAndRightUpLight</string>
+      <string>boxDownHeavyAndUpHorizontalLight</string>
+      <string>boxDownLightAndHorizontalHeavy</string>
+      <string>boxDownLightAndLeftHeavy</string>
+      <string>boxDownLightAndLeftUpHeavy</string>
+      <string>boxDownLightAndRightHeavy</string>
+      <string>boxDownLightAndRightUpHeavy</string>
+      <string>boxDownLightAndUpHorizontalHeavy</string>
       <string>boxDownSingleAndHorizontalDouble</string>
       <string>boxDownSingleAndLeftDouble</string>
       <string>boxDownSingleAndRightDouble</string>
+      <string>boxHeavyDoubleDashHorizontal</string>
+      <string>boxHeavyDoubleDashVertical</string>
+      <string>boxHeavyDown</string>
+      <string>boxHeavyDownAndHorizontal</string>
+      <string>boxHeavyDownAndLeft</string>
+      <string>boxHeavyDownAndRight</string>
+      <string>boxHeavyHorizontal</string>
+      <string>boxHeavyLeft</string>
+      <string>boxHeavyLeftAndLightRight</string>
+      <string>boxHeavyQuadrupleDashHorizontal</string>
+      <string>boxHeavyQuadrupleDashVertical</string>
+      <string>boxHeavyRight</string>
+      <string>boxHeavyTripleDashHorizontal</string>
+      <string>boxHeavyTripleDashVertical</string>
+      <string>boxHeavyUp</string>
+      <string>boxHeavyUpAndHorizontal</string>
+      <string>boxHeavyUpAndLeft</string>
+      <string>boxHeavyUpAndLightDown</string>
+      <string>boxHeavyUpAndRight</string>
+      <string>boxHeavyVertical</string>
+      <string>boxHeavyVerticalAndHorizontal</string>
+      <string>boxHeavyVerticalAndLeft</string>
+      <string>boxHeavyVerticalAndRight</string>
+      <string>boxLeftDownHeavyAndRightUpLight</string>
+      <string>boxLeftHeavyAndRightDownLight</string>
+      <string>boxLeftHeavyAndRightUpLight</string>
+      <string>boxLeftHeavyAndRightVerticalLight</string>
+      <string>boxLeftLightAndRightDownHeavy</string>
+      <string>boxLeftLightAndRightUpHeavy</string>
+      <string>boxLeftLightAndRightVerticalHeavy</string>
+      <string>boxLeftUpHeavyAndRightDownLight</string>
+      <string>boxLightArcDownAndLeft</string>
+      <string>boxLightArcDownAndRight</string>
+      <string>boxLightArcUpAndLeft</string>
+      <string>boxLightArcUpAndRight</string>
+      <string>boxLightDiagonalCross</string>
+      <string>boxLightDiagonalUpperLeftToLowerRight</string>
+      <string>boxLightDiagonalUpperRightToLowerLeft</string>
+      <string>boxLightDoubleDashHorizontal</string>
+      <string>boxLightDoubleDashVertical</string>
+      <string>boxLightDown</string>
       <string>boxLightDownAndHorizontal</string>
       <string>boxLightDownAndLeft</string>
       <string>boxLightDownAndRight</string>
       <string>boxLightHorizontal</string>
+      <string>boxLightLeft</string>
+      <string>boxLightLeftAndHeavyRight</string>
+      <string>boxLightQuadrupleDashHorizontal</string>
+      <string>boxLightQuadrupleDashVertical</string>
+      <string>boxLightRight</string>
+      <string>boxLightTripleDashHorizontal</string>
+      <string>boxLightTripleDashVertical</string>
+      <string>boxLightUp</string>
+      <string>boxLightUpAndHeavyDown</string>
       <string>boxLightUpAndHorizontal</string>
       <string>boxLightUpAndLeft</string>
       <string>boxLightUpAndRight</string>
@@ -2176,20 +2524,44 @@
       <string>boxLightVerticalAndHorizontal</string>
       <string>boxLightVerticalAndLeft</string>
       <string>boxLightVerticalAndRight</string>
+      <string>boxRightDownHeavyAndLeftUpLight</string>
+      <string>boxRightHeavyAndLeftDownLight</string>
+      <string>boxRightHeavyAndLeftUpLight</string>
+      <string>boxRightHeavyAndLeftVerticalLight</string>
+      <string>boxRightLightAndLeftDownHeavy</string>
+      <string>boxRightLightAndLeftUpHeavy</string>
+      <string>boxRightLightAndLeftVerticalHeavy</string>
+      <string>boxRightUpHeavyAndLeftDownLight</string>
       <string>boxUpDoubleAndHorizontalSingle</string>
       <string>boxUpDoubleAndLeftSingle</string>
       <string>boxUpDoubleAndRightSingle</string>
+      <string>boxUpHeavyAndDownHorizontalLight</string>
+      <string>boxUpHeavyAndHorizontalLight</string>
+      <string>boxUpHeavyAndLeftDownLight</string>
+      <string>boxUpHeavyAndLeftLight</string>
+      <string>boxUpHeavyAndRightDownLight</string>
+      <string>boxUpHeavyAndRightLight</string>
+      <string>boxUpLightAndDownHorizontalHeavy</string>
+      <string>boxUpLightAndHorizontalHeavy</string>
+      <string>boxUpLightAndLeftDownHeavy</string>
+      <string>boxUpLightAndLeftHeavy</string>
+      <string>boxUpLightAndRightDownHeavy</string>
+      <string>boxUpLightAndRightHeavy</string>
       <string>boxUpSingleAndHorizontalDouble</string>
       <string>boxUpSingleAndLeftDouble</string>
       <string>boxUpSingleAndRightDouble</string>
       <string>boxVerticalDoubleAndHorizontalSingle</string>
       <string>boxVerticalDoubleAndLeftSingle</string>
       <string>boxVerticalDoubleAndRightSingle</string>
+      <string>boxVerticalHeavyAndHorizontalLight</string>
+      <string>boxVerticalHeavyAndLeftLight</string>
+      <string>boxVerticalHeavyAndRightLight</string>
+      <string>boxVerticalLightAndHorizontalHeavy</string>
+      <string>boxVerticalLightAndLeftHeavy</string>
+      <string>boxVerticalLightAndRightHeavy</string>
       <string>boxVerticalSingleAndHorizontalDouble</string>
       <string>boxVerticalSingleAndLeftDouble</string>
       <string>boxVerticalSingleAndRightDouble</string>
-      <string>boxVerticalDoubleAndHorizontalSingle.001</string>
-      <string>boxVerticalSingleAndHorizontalDouble.001</string>
       <string>psili</string>
       <string>koronis</string>
       <string>dasia</string>
@@ -2243,7 +2615,9 @@
       <string>firsttonechinese</string>
       <string>apostrophemod</string>
       <string>IJacute</string>
-      <string>ijacute</string>
+      <string>square</string>
+      <string>squareDark</string>
+      <string>squareMedium</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
@@ -2431,8 +2805,6 @@
       <string>uni1FC8</string>
       <key>Er-cy</key>
       <string>uni0420</string>
-      <key>Ereversed</key>
-      <string>uni018E</string>
       <key>Ereversed-cy</key>
       <string>uni042D</string>
       <key>Ertick-cy</key>
@@ -2533,8 +2905,6 @@
       <string>uni0193</string>
       <key>Gje-cy</key>
       <string>uni0403</string>
-      <key>Glottalstop</key>
-      <string>uni0241</string>
       <key>Gstroke</key>
       <string>uni01E4</string>
       <key>Ha-cy</key>
@@ -2671,8 +3041,6 @@
       <string>uni04EA</string>
       <key>Ocaron</key>
       <string>uni01D1</string>
-      <key>Ocenteredtilde</key>
-      <string>uni019F</string>
       <key>Odblgrave</key>
       <string>uni020C</string>
       <key>Odieresis-cy</key>
@@ -2685,8 +3053,6 @@
       <string>uni0230</string>
       <key>Ohm</key>
       <string>uni2126</string>
-      <key>Oi</key>
-      <string>uni01A2</string>
       <key>Oinvertedbreve</key>
       <string>uni020E</string>
       <key>Omega</key>
@@ -3007,6 +3373,12 @@
       <string>uni1FB3</string>
       <key>apostrophemod</key>
       <string>uni02BC</string>
+      <key>ballotBox</key>
+      <string>uni2610</string>
+      <key>ballotBoxWithCheck</key>
+      <string>uni2611</string>
+      <key>ballotBoxWithX</key>
+      <string>uni2612</string>
       <key>be-cy</key>
       <string>uni0431</string>
       <key>be-cy.locl</key>
@@ -3039,12 +3411,118 @@
       <string>uni2556</string>
       <key>boxDownDoubleAndRightSingle</key>
       <string>uni2553</string>
+      <key>boxDownHeavyAndHorizontalLight</key>
+      <string>uni2530</string>
+      <key>boxDownHeavyAndLeftLight</key>
+      <string>uni2512</string>
+      <key>boxDownHeavyAndLeftUpLight</key>
+      <string>uni2527</string>
+      <key>boxDownHeavyAndRightLight</key>
+      <string>uni250E</string>
+      <key>boxDownHeavyAndRightUpLight</key>
+      <string>uni251F</string>
+      <key>boxDownHeavyAndUpHorizontalLight</key>
+      <string>uni2541</string>
+      <key>boxDownLightAndHorizontalHeavy</key>
+      <string>uni252F</string>
+      <key>boxDownLightAndLeftHeavy</key>
+      <string>uni2511</string>
+      <key>boxDownLightAndLeftUpHeavy</key>
+      <string>uni2529</string>
+      <key>boxDownLightAndRightHeavy</key>
+      <string>uni250D</string>
+      <key>boxDownLightAndRightUpHeavy</key>
+      <string>uni2521</string>
+      <key>boxDownLightAndUpHorizontalHeavy</key>
+      <string>uni2547</string>
       <key>boxDownSingleAndHorizontalDouble</key>
       <string>uni2564</string>
       <key>boxDownSingleAndLeftDouble</key>
       <string>uni2555</string>
       <key>boxDownSingleAndRightDouble</key>
       <string>uni2552</string>
+      <key>boxHeavyDoubleDashHorizontal</key>
+      <string>uni254D</string>
+      <key>boxHeavyDoubleDashVertical</key>
+      <string>uni254F</string>
+      <key>boxHeavyDown</key>
+      <string>uni257B</string>
+      <key>boxHeavyDownAndHorizontal</key>
+      <string>uni2533</string>
+      <key>boxHeavyDownAndLeft</key>
+      <string>uni2513</string>
+      <key>boxHeavyDownAndRight</key>
+      <string>uni250F</string>
+      <key>boxHeavyHorizontal</key>
+      <string>uni2501</string>
+      <key>boxHeavyLeft</key>
+      <string>uni2578</string>
+      <key>boxHeavyLeftAndLightRight</key>
+      <string>uni257E</string>
+      <key>boxHeavyQuadrupleDashHorizontal</key>
+      <string>uni2509</string>
+      <key>boxHeavyQuadrupleDashVertical</key>
+      <string>uni250B</string>
+      <key>boxHeavyRight</key>
+      <string>uni257A</string>
+      <key>boxHeavyTripleDashHorizontal</key>
+      <string>uni2505</string>
+      <key>boxHeavyTripleDashVertical</key>
+      <string>uni2507</string>
+      <key>boxHeavyUp</key>
+      <string>uni2579</string>
+      <key>boxHeavyUpAndHorizontal</key>
+      <string>uni253B</string>
+      <key>boxHeavyUpAndLeft</key>
+      <string>uni251B</string>
+      <key>boxHeavyUpAndLightDown</key>
+      <string>uni257F</string>
+      <key>boxHeavyUpAndRight</key>
+      <string>uni2517</string>
+      <key>boxHeavyVertical</key>
+      <string>uni2503</string>
+      <key>boxHeavyVerticalAndHorizontal</key>
+      <string>uni254B</string>
+      <key>boxHeavyVerticalAndLeft</key>
+      <string>uni252B</string>
+      <key>boxHeavyVerticalAndRight</key>
+      <string>uni2523</string>
+      <key>boxLeftDownHeavyAndRightUpLight</key>
+      <string>uni2545</string>
+      <key>boxLeftHeavyAndRightDownLight</key>
+      <string>uni252D</string>
+      <key>boxLeftHeavyAndRightUpLight</key>
+      <string>uni2535</string>
+      <key>boxLeftHeavyAndRightVerticalLight</key>
+      <string>uni253D</string>
+      <key>boxLeftLightAndRightDownHeavy</key>
+      <string>uni2532</string>
+      <key>boxLeftLightAndRightUpHeavy</key>
+      <string>uni253A</string>
+      <key>boxLeftLightAndRightVerticalHeavy</key>
+      <string>uni254A</string>
+      <key>boxLeftUpHeavyAndRightDownLight</key>
+      <string>uni2543</string>
+      <key>boxLightArcDownAndLeft</key>
+      <string>uni256E</string>
+      <key>boxLightArcDownAndRight</key>
+      <string>uni256D</string>
+      <key>boxLightArcUpAndLeft</key>
+      <string>uni256F</string>
+      <key>boxLightArcUpAndRight</key>
+      <string>uni2570</string>
+      <key>boxLightDiagonalCross</key>
+      <string>uni2573</string>
+      <key>boxLightDiagonalUpperLeftToLowerRight</key>
+      <string>uni2572</string>
+      <key>boxLightDiagonalUpperRightToLowerLeft</key>
+      <string>uni2571</string>
+      <key>boxLightDoubleDashHorizontal</key>
+      <string>uni254C</string>
+      <key>boxLightDoubleDashVertical</key>
+      <string>uni254E</string>
+      <key>boxLightDown</key>
+      <string>uni2577</string>
       <key>boxLightDownAndHorizontal</key>
       <string>uni252C</string>
       <key>boxLightDownAndLeft</key>
@@ -3053,6 +3531,24 @@
       <string>uni250C</string>
       <key>boxLightHorizontal</key>
       <string>uni2500</string>
+      <key>boxLightLeft</key>
+      <string>uni2574</string>
+      <key>boxLightLeftAndHeavyRight</key>
+      <string>uni257C</string>
+      <key>boxLightQuadrupleDashHorizontal</key>
+      <string>uni2508</string>
+      <key>boxLightQuadrupleDashVertical</key>
+      <string>uni250A</string>
+      <key>boxLightRight</key>
+      <string>uni2576</string>
+      <key>boxLightTripleDashHorizontal</key>
+      <string>uni2504</string>
+      <key>boxLightTripleDashVertical</key>
+      <string>uni2506</string>
+      <key>boxLightUp</key>
+      <string>uni2575</string>
+      <key>boxLightUpAndHeavyDown</key>
+      <string>uni257D</string>
       <key>boxLightUpAndHorizontal</key>
       <string>uni2534</string>
       <key>boxLightUpAndLeft</key>
@@ -3067,12 +3563,52 @@
       <string>uni2524</string>
       <key>boxLightVerticalAndRight</key>
       <string>uni251C</string>
+      <key>boxRightDownHeavyAndLeftUpLight</key>
+      <string>uni2546</string>
+      <key>boxRightHeavyAndLeftDownLight</key>
+      <string>uni252E</string>
+      <key>boxRightHeavyAndLeftUpLight</key>
+      <string>uni2536</string>
+      <key>boxRightHeavyAndLeftVerticalLight</key>
+      <string>uni253E</string>
+      <key>boxRightLightAndLeftDownHeavy</key>
+      <string>uni2531</string>
+      <key>boxRightLightAndLeftUpHeavy</key>
+      <string>uni2539</string>
+      <key>boxRightLightAndLeftVerticalHeavy</key>
+      <string>uni2549</string>
+      <key>boxRightUpHeavyAndLeftDownLight</key>
+      <string>uni2544</string>
       <key>boxUpDoubleAndHorizontalSingle</key>
       <string>uni2568</string>
       <key>boxUpDoubleAndLeftSingle</key>
       <string>uni255C</string>
       <key>boxUpDoubleAndRightSingle</key>
       <string>uni2559</string>
+      <key>boxUpHeavyAndDownHorizontalLight</key>
+      <string>uni2540</string>
+      <key>boxUpHeavyAndHorizontalLight</key>
+      <string>uni2538</string>
+      <key>boxUpHeavyAndLeftDownLight</key>
+      <string>uni2526</string>
+      <key>boxUpHeavyAndLeftLight</key>
+      <string>uni251A</string>
+      <key>boxUpHeavyAndRightDownLight</key>
+      <string>uni251E</string>
+      <key>boxUpHeavyAndRightLight</key>
+      <string>uni2516</string>
+      <key>boxUpLightAndDownHorizontalHeavy</key>
+      <string>uni2548</string>
+      <key>boxUpLightAndHorizontalHeavy</key>
+      <string>uni2537</string>
+      <key>boxUpLightAndLeftDownHeavy</key>
+      <string>uni252A</string>
+      <key>boxUpLightAndLeftHeavy</key>
+      <string>uni2519</string>
+      <key>boxUpLightAndRightDownHeavy</key>
+      <string>uni2522</string>
+      <key>boxUpLightAndRightHeavy</key>
+      <string>uni2515</string>
       <key>boxUpSingleAndHorizontalDouble</key>
       <string>uni2567</string>
       <key>boxUpSingleAndLeftDouble</key>
@@ -3081,16 +3617,24 @@
       <string>uni2558</string>
       <key>boxVerticalDoubleAndHorizontalSingle</key>
       <string>uni256B</string>
-      <key>boxVerticalDoubleAndHorizontalSingle.001</key>
-      <string>uni256B.001</string>
       <key>boxVerticalDoubleAndLeftSingle</key>
       <string>uni2562</string>
       <key>boxVerticalDoubleAndRightSingle</key>
       <string>uni255F</string>
+      <key>boxVerticalHeavyAndHorizontalLight</key>
+      <string>uni2542</string>
+      <key>boxVerticalHeavyAndLeftLight</key>
+      <string>uni2528</string>
+      <key>boxVerticalHeavyAndRightLight</key>
+      <string>uni2520</string>
+      <key>boxVerticalLightAndHorizontalHeavy</key>
+      <string>uni253F</string>
+      <key>boxVerticalLightAndLeftHeavy</key>
+      <string>uni2525</string>
+      <key>boxVerticalLightAndRightHeavy</key>
+      <string>uni251D</string>
       <key>boxVerticalSingleAndHorizontalDouble</key>
       <string>uni256A</string>
-      <key>boxVerticalSingleAndHorizontalDouble.001</key>
-      <string>uni256A.001</string>
       <key>boxVerticalSingleAndLeftDouble</key>
       <string>uni2561</string>
       <key>boxVerticalSingleAndRightDouble</key>
@@ -3199,6 +3743,516 @@
       <string>uni0307.i</string>
       <key>dotaccentcomb_macroncomb</key>
       <string>uni03070304</string>
+      <key>dots1-braille</key>
+      <string>uni2801</string>
+      <key>dots12-braille</key>
+      <string>uni2803</string>
+      <key>dots123-braille</key>
+      <string>uni2807</string>
+      <key>dots1234-braille</key>
+      <string>uni280F</string>
+      <key>dots12345-braille</key>
+      <string>uni281F</string>
+      <key>dots123456-braille</key>
+      <string>uni283F</string>
+      <key>dots1234567-braille</key>
+      <string>uni287F</string>
+      <key>dots12345678-braille</key>
+      <string>uni28FF</string>
+      <key>dots1234568-braille</key>
+      <string>uni28BF</string>
+      <key>dots123457-braille</key>
+      <string>uni285F</string>
+      <key>dots1234578-braille</key>
+      <string>uni28DF</string>
+      <key>dots123458-braille</key>
+      <string>uni289F</string>
+      <key>dots12346-braille</key>
+      <string>uni282F</string>
+      <key>dots123467-braille</key>
+      <string>uni286F</string>
+      <key>dots1234678-braille</key>
+      <string>uni28EF</string>
+      <key>dots123468-braille</key>
+      <string>uni28AF</string>
+      <key>dots12347-braille</key>
+      <string>uni284F</string>
+      <key>dots123478-braille</key>
+      <string>uni28CF</string>
+      <key>dots12348-braille</key>
+      <string>uni288F</string>
+      <key>dots1235-braille</key>
+      <string>uni2817</string>
+      <key>dots12356-braille</key>
+      <string>uni2837</string>
+      <key>dots123567-braille</key>
+      <string>uni2877</string>
+      <key>dots1235678-braille</key>
+      <string>uni28F7</string>
+      <key>dots123568-braille</key>
+      <string>uni28B7</string>
+      <key>dots12357-braille</key>
+      <string>uni2857</string>
+      <key>dots123578-braille</key>
+      <string>uni28D7</string>
+      <key>dots12358-braille</key>
+      <string>uni2897</string>
+      <key>dots1236-braille</key>
+      <string>uni2827</string>
+      <key>dots12367-braille</key>
+      <string>uni2867</string>
+      <key>dots123678-braille</key>
+      <string>uni28E7</string>
+      <key>dots12368-braille</key>
+      <string>uni28A7</string>
+      <key>dots1237-braille</key>
+      <string>uni2847</string>
+      <key>dots12378-braille</key>
+      <string>uni28C7</string>
+      <key>dots1238-braille</key>
+      <string>uni2887</string>
+      <key>dots124-braille</key>
+      <string>uni280B</string>
+      <key>dots1245-braille</key>
+      <string>uni281B</string>
+      <key>dots12456-braille</key>
+      <string>uni283B</string>
+      <key>dots124567-braille</key>
+      <string>uni287B</string>
+      <key>dots1245678-braille</key>
+      <string>uni28FB</string>
+      <key>dots124568-braille</key>
+      <string>uni28BB</string>
+      <key>dots12457-braille</key>
+      <string>uni285B</string>
+      <key>dots124578-braille</key>
+      <string>uni28DB</string>
+      <key>dots12458-braille</key>
+      <string>uni289B</string>
+      <key>dots1246-braille</key>
+      <string>uni282B</string>
+      <key>dots12467-braille</key>
+      <string>uni286B</string>
+      <key>dots124678-braille</key>
+      <string>uni28EB</string>
+      <key>dots12468-braille</key>
+      <string>uni28AB</string>
+      <key>dots1247-braille</key>
+      <string>uni284B</string>
+      <key>dots12478-braille</key>
+      <string>uni28CB</string>
+      <key>dots1248-braille</key>
+      <string>uni288B</string>
+      <key>dots125-braille</key>
+      <string>uni2813</string>
+      <key>dots1256-braille</key>
+      <string>uni2833</string>
+      <key>dots12567-braille</key>
+      <string>uni2873</string>
+      <key>dots125678-braille</key>
+      <string>uni28F3</string>
+      <key>dots12568-braille</key>
+      <string>uni28B3</string>
+      <key>dots1257-braille</key>
+      <string>uni2853</string>
+      <key>dots12578-braille</key>
+      <string>uni28D3</string>
+      <key>dots1258-braille</key>
+      <string>uni2893</string>
+      <key>dots126-braille</key>
+      <string>uni2823</string>
+      <key>dots1267-braille</key>
+      <string>uni2863</string>
+      <key>dots12678-braille</key>
+      <string>uni28E3</string>
+      <key>dots1268-braille</key>
+      <string>uni28A3</string>
+      <key>dots127-braille</key>
+      <string>uni2843</string>
+      <key>dots1278-braille</key>
+      <string>uni28C3</string>
+      <key>dots128-braille</key>
+      <string>uni2883</string>
+      <key>dots13-braille</key>
+      <string>uni2805</string>
+      <key>dots134-braille</key>
+      <string>uni280D</string>
+      <key>dots1345-braille</key>
+      <string>uni281D</string>
+      <key>dots13456-braille</key>
+      <string>uni283D</string>
+      <key>dots134567-braille</key>
+      <string>uni287D</string>
+      <key>dots1345678-braille</key>
+      <string>uni28FD</string>
+      <key>dots134568-braille</key>
+      <string>uni28BD</string>
+      <key>dots13457-braille</key>
+      <string>uni285D</string>
+      <key>dots134578-braille</key>
+      <string>uni28DD</string>
+      <key>dots13458-braille</key>
+      <string>uni289D</string>
+      <key>dots1346-braille</key>
+      <string>uni282D</string>
+      <key>dots13467-braille</key>
+      <string>uni286D</string>
+      <key>dots134678-braille</key>
+      <string>uni28ED</string>
+      <key>dots13468-braille</key>
+      <string>uni28AD</string>
+      <key>dots1347-braille</key>
+      <string>uni284D</string>
+      <key>dots13478-braille</key>
+      <string>uni28CD</string>
+      <key>dots1348-braille</key>
+      <string>uni288D</string>
+      <key>dots135-braille</key>
+      <string>uni2815</string>
+      <key>dots1356-braille</key>
+      <string>uni2835</string>
+      <key>dots13567-braille</key>
+      <string>uni2875</string>
+      <key>dots135678-braille</key>
+      <string>uni28F5</string>
+      <key>dots13568-braille</key>
+      <string>uni28B5</string>
+      <key>dots1357-braille</key>
+      <string>uni2855</string>
+      <key>dots13578-braille</key>
+      <string>uni28D5</string>
+      <key>dots1358-braille</key>
+      <string>uni2895</string>
+      <key>dots136-braille</key>
+      <string>uni2825</string>
+      <key>dots1367-braille</key>
+      <string>uni2865</string>
+      <key>dots13678-braille</key>
+      <string>uni28E5</string>
+      <key>dots1368-braille</key>
+      <string>uni28A5</string>
+      <key>dots137-braille</key>
+      <string>uni2845</string>
+      <key>dots1378-braille</key>
+      <string>uni28C5</string>
+      <key>dots138-braille</key>
+      <string>uni2885</string>
+      <key>dots14-braille</key>
+      <string>uni2809</string>
+      <key>dots145-braille</key>
+      <string>uni2819</string>
+      <key>dots1456-braille</key>
+      <string>uni2839</string>
+      <key>dots14567-braille</key>
+      <string>uni2879</string>
+      <key>dots145678-braille</key>
+      <string>uni28F9</string>
+      <key>dots14568-braille</key>
+      <string>uni28B9</string>
+      <key>dots1457-braille</key>
+      <string>uni2859</string>
+      <key>dots14578-braille</key>
+      <string>uni28D9</string>
+      <key>dots1458-braille</key>
+      <string>uni2899</string>
+      <key>dots146-braille</key>
+      <string>uni2829</string>
+      <key>dots1467-braille</key>
+      <string>uni2869</string>
+      <key>dots14678-braille</key>
+      <string>uni28E9</string>
+      <key>dots1468-braille</key>
+      <string>uni28A9</string>
+      <key>dots147-braille</key>
+      <string>uni2849</string>
+      <key>dots1478-braille</key>
+      <string>uni28C9</string>
+      <key>dots148-braille</key>
+      <string>uni2889</string>
+      <key>dots15-braille</key>
+      <string>uni2811</string>
+      <key>dots156-braille</key>
+      <string>uni2831</string>
+      <key>dots1567-braille</key>
+      <string>uni2871</string>
+      <key>dots15678-braille</key>
+      <string>uni28F1</string>
+      <key>dots1568-braille</key>
+      <string>uni28B1</string>
+      <key>dots157-braille</key>
+      <string>uni2851</string>
+      <key>dots1578-braille</key>
+      <string>uni28D1</string>
+      <key>dots158-braille</key>
+      <string>uni2891</string>
+      <key>dots16-braille</key>
+      <string>uni2821</string>
+      <key>dots167-braille</key>
+      <string>uni2861</string>
+      <key>dots1678-braille</key>
+      <string>uni28E1</string>
+      <key>dots168-braille</key>
+      <string>uni28A1</string>
+      <key>dots17-braille</key>
+      <string>uni2841</string>
+      <key>dots178-braille</key>
+      <string>uni28C1</string>
+      <key>dots18-braille</key>
+      <string>uni2881</string>
+      <key>dots2-braille</key>
+      <string>uni2802</string>
+      <key>dots23-braille</key>
+      <string>uni2806</string>
+      <key>dots234-braille</key>
+      <string>uni280E</string>
+      <key>dots2345-braille</key>
+      <string>uni281E</string>
+      <key>dots23456-braille</key>
+      <string>uni283E</string>
+      <key>dots234567-braille</key>
+      <string>uni287E</string>
+      <key>dots2345678-braille</key>
+      <string>uni28FE</string>
+      <key>dots234568-braille</key>
+      <string>uni28BE</string>
+      <key>dots23457-braille</key>
+      <string>uni285E</string>
+      <key>dots234578-braille</key>
+      <string>uni28DE</string>
+      <key>dots23458-braille</key>
+      <string>uni289E</string>
+      <key>dots2346-braille</key>
+      <string>uni282E</string>
+      <key>dots23467-braille</key>
+      <string>uni286E</string>
+      <key>dots234678-braille</key>
+      <string>uni28EE</string>
+      <key>dots23468-braille</key>
+      <string>uni28AE</string>
+      <key>dots2347-braille</key>
+      <string>uni284E</string>
+      <key>dots23478-braille</key>
+      <string>uni28CE</string>
+      <key>dots2348-braille</key>
+      <string>uni288E</string>
+      <key>dots235-braille</key>
+      <string>uni2816</string>
+      <key>dots2356-braille</key>
+      <string>uni2836</string>
+      <key>dots23567-braille</key>
+      <string>uni2876</string>
+      <key>dots235678-braille</key>
+      <string>uni28F6</string>
+      <key>dots23568-braille</key>
+      <string>uni28B6</string>
+      <key>dots2357-braille</key>
+      <string>uni2856</string>
+      <key>dots23578-braille</key>
+      <string>uni28D6</string>
+      <key>dots2358-braille</key>
+      <string>uni2896</string>
+      <key>dots236-braille</key>
+      <string>uni2826</string>
+      <key>dots2367-braille</key>
+      <string>uni2866</string>
+      <key>dots23678-braille</key>
+      <string>uni28E6</string>
+      <key>dots2368-braille</key>
+      <string>uni28A6</string>
+      <key>dots237-braille</key>
+      <string>uni2846</string>
+      <key>dots2378-braille</key>
+      <string>uni28C6</string>
+      <key>dots238-braille</key>
+      <string>uni2886</string>
+      <key>dots24-braille</key>
+      <string>uni280A</string>
+      <key>dots245-braille</key>
+      <string>uni281A</string>
+      <key>dots2456-braille</key>
+      <string>uni283A</string>
+      <key>dots24567-braille</key>
+      <string>uni287A</string>
+      <key>dots245678-braille</key>
+      <string>uni28FA</string>
+      <key>dots24568-braille</key>
+      <string>uni28BA</string>
+      <key>dots2457-braille</key>
+      <string>uni285A</string>
+      <key>dots24578-braille</key>
+      <string>uni28DA</string>
+      <key>dots2458-braille</key>
+      <string>uni289A</string>
+      <key>dots246-braille</key>
+      <string>uni282A</string>
+      <key>dots2467-braille</key>
+      <string>uni286A</string>
+      <key>dots24678-braille</key>
+      <string>uni28EA</string>
+      <key>dots2468-braille</key>
+      <string>uni28AA</string>
+      <key>dots247-braille</key>
+      <string>uni284A</string>
+      <key>dots2478-braille</key>
+      <string>uni28CA</string>
+      <key>dots248-braille</key>
+      <string>uni288A</string>
+      <key>dots25-braille</key>
+      <string>uni2812</string>
+      <key>dots256-braille</key>
+      <string>uni2832</string>
+      <key>dots2567-braille</key>
+      <string>uni2872</string>
+      <key>dots25678-braille</key>
+      <string>uni28F2</string>
+      <key>dots2568-braille</key>
+      <string>uni28B2</string>
+      <key>dots257-braille</key>
+      <string>uni2852</string>
+      <key>dots2578-braille</key>
+      <string>uni28D2</string>
+      <key>dots258-braille</key>
+      <string>uni2892</string>
+      <key>dots26-braille</key>
+      <string>uni2822</string>
+      <key>dots267-braille</key>
+      <string>uni2862</string>
+      <key>dots2678-braille</key>
+      <string>uni28E2</string>
+      <key>dots268-braille</key>
+      <string>uni28A2</string>
+      <key>dots27-braille</key>
+      <string>uni2842</string>
+      <key>dots278-braille</key>
+      <string>uni28C2</string>
+      <key>dots28-braille</key>
+      <string>uni2882</string>
+      <key>dots3-braille</key>
+      <string>uni2804</string>
+      <key>dots34-braille</key>
+      <string>uni280C</string>
+      <key>dots345-braille</key>
+      <string>uni281C</string>
+      <key>dots3456-braille</key>
+      <string>uni283C</string>
+      <key>dots34567-braille</key>
+      <string>uni287C</string>
+      <key>dots345678-braille</key>
+      <string>uni28FC</string>
+      <key>dots34568-braille</key>
+      <string>uni28BC</string>
+      <key>dots3457-braille</key>
+      <string>uni285C</string>
+      <key>dots34578-braille</key>
+      <string>uni28DC</string>
+      <key>dots3458-braille</key>
+      <string>uni289C</string>
+      <key>dots346-braille</key>
+      <string>uni282C</string>
+      <key>dots3467-braille</key>
+      <string>uni286C</string>
+      <key>dots34678-braille</key>
+      <string>uni28EC</string>
+      <key>dots3468-braille</key>
+      <string>uni28AC</string>
+      <key>dots347-braille</key>
+      <string>uni284C</string>
+      <key>dots3478-braille</key>
+      <string>uni28CC</string>
+      <key>dots348-braille</key>
+      <string>uni288C</string>
+      <key>dots35-braille</key>
+      <string>uni2814</string>
+      <key>dots356-braille</key>
+      <string>uni2834</string>
+      <key>dots3567-braille</key>
+      <string>uni2874</string>
+      <key>dots35678-braille</key>
+      <string>uni28F4</string>
+      <key>dots3568-braille</key>
+      <string>uni28B4</string>
+      <key>dots357-braille</key>
+      <string>uni2854</string>
+      <key>dots3578-braille</key>
+      <string>uni28D4</string>
+      <key>dots358-braille</key>
+      <string>uni2894</string>
+      <key>dots36-braille</key>
+      <string>uni2824</string>
+      <key>dots367-braille</key>
+      <string>uni2864</string>
+      <key>dots3678-braille</key>
+      <string>uni28E4</string>
+      <key>dots368-braille</key>
+      <string>uni28A4</string>
+      <key>dots37-braille</key>
+      <string>uni2844</string>
+      <key>dots378-braille</key>
+      <string>uni28C4</string>
+      <key>dots38-braille</key>
+      <string>uni2884</string>
+      <key>dots4-braille</key>
+      <string>uni2808</string>
+      <key>dots45-braille</key>
+      <string>uni2818</string>
+      <key>dots456-braille</key>
+      <string>uni2838</string>
+      <key>dots4567-braille</key>
+      <string>uni2878</string>
+      <key>dots45678-braille</key>
+      <string>uni28F8</string>
+      <key>dots4568-braille</key>
+      <string>uni28B8</string>
+      <key>dots457-braille</key>
+      <string>uni2858</string>
+      <key>dots4578-braille</key>
+      <string>uni28D8</string>
+      <key>dots458-braille</key>
+      <string>uni2898</string>
+      <key>dots46-braille</key>
+      <string>uni2828</string>
+      <key>dots467-braille</key>
+      <string>uni2868</string>
+      <key>dots4678-braille</key>
+      <string>uni28E8</string>
+      <key>dots468-braille</key>
+      <string>uni28A8</string>
+      <key>dots47-braille</key>
+      <string>uni2848</string>
+      <key>dots478-braille</key>
+      <string>uni28C8</string>
+      <key>dots48-braille</key>
+      <string>uni2888</string>
+      <key>dots5-braille</key>
+      <string>uni2810</string>
+      <key>dots56-braille</key>
+      <string>uni2830</string>
+      <key>dots567-braille</key>
+      <string>uni2870</string>
+      <key>dots5678-braille</key>
+      <string>uni28F0</string>
+      <key>dots568-braille</key>
+      <string>uni28B0</string>
+      <key>dots57-braille</key>
+      <string>uni2850</string>
+      <key>dots578-braille</key>
+      <string>uni28D0</string>
+      <key>dots58-braille</key>
+      <string>uni2890</string>
+      <key>dots6-braille</key>
+      <string>uni2820</string>
+      <key>dots67-braille</key>
+      <string>uni2860</string>
+      <key>dots678-braille</key>
+      <string>uni28E0</string>
+      <key>dots68-braille</key>
+      <string>uni28A0</string>
+      <key>dots7-braille</key>
+      <string>uni2840</string>
+      <key>dots78-braille</key>
+      <string>uni28C0</string>
+      <key>dots8-braille</key>
+      <string>uni2880</string>
       <key>dottedCircle</key>
       <string>uni25CC</string>
       <key>dtopbar</key>
@@ -3403,8 +4457,6 @@
       <string>uni20B4.osf</string>
       <key>hungarumlautcomb</key>
       <string>uni030B</string>
-      <key>hv</key>
-      <string>uni0195</string>
       <key>i-cy</key>
       <string>uni0456</string>
       <key>icaron</key>
@@ -3517,20 +4569,52 @@
       <string>uni045C</string>
       <key>koronis</key>
       <string>uni1FBD</string>
-      <key>lambdastroke</key>
-      <string>uni019B</string>
+      <key>lambdastroke-latin</key>
+      <string>lambdastrokelatin</string>
       <key>lbar</key>
       <string>uni019A</string>
       <key>lcommaaccent</key>
       <string>uni013C</string>
       <key>lcurl</key>
       <string>uni0234</string>
+      <key>leftBlock</key>
+      <string>lfblock</string>
+      <key>leftFiveEighthsBlock</key>
+      <string>uni258B</string>
+      <key>leftOneEighthBlock</key>
+      <string>uni258F</string>
+      <key>leftOneQuarterBlock</key>
+      <string>uni258E</string>
+      <key>leftSevenEighthsBlock</key>
+      <string>uni2589</string>
+      <key>leftThreeEighthsBlock</key>
+      <string>uni258D</string>
+      <key>leftThreeQuartersBlock</key>
+      <string>uni258A</string>
       <key>literSign</key>
       <string>uni2113</string>
       <key>lj</key>
       <string>uni01C9</string>
       <key>lje-cy</key>
       <string>uni0459</string>
+      <key>lowerFiveEighthsBlock</key>
+      <string>uni2585</string>
+      <key>lowerHalfBlock</key>
+      <string>dnblock</string>
+      <key>lowerLeftBlock</key>
+      <string>uni2596</string>
+      <key>lowerOneEighthBlock</key>
+      <string>uni2581</string>
+      <key>lowerOneQuarterBlock</key>
+      <string>uni2582</string>
+      <key>lowerRightBlock</key>
+      <string>uni2597</string>
+      <key>lowerSevenEighthsBlock</key>
+      <string>uni2587</string>
+      <key>lowerThreeEighthsBlock</key>
+      <string>uni2583</string>
+      <key>lowerThreeQuartersBlock</key>
+      <string>uni2586</string>
       <key>macronbelowcomb</key>
       <string>uni0331</string>
       <key>macroncomb</key>
@@ -3555,8 +4639,6 @@
       <string>uni01CC</string>
       <key>nje-cy</key>
       <string>uni045A</string>
-      <key>nlegrightlong</key>
-      <string>uni019E</string>
       <key>numero</key>
       <string>uni2116</string>
       <key>o-cy</key>
@@ -3579,8 +4661,6 @@
       <string>uni0231</string>
       <key>ogonekcomb</key>
       <string>uni0328</string>
-      <key>oi</key>
-      <string>uni01A3</string>
       <key>oinvertedbreve</key>
       <string>uni020F</string>
       <key>omegadasia</key>
@@ -3705,6 +4785,10 @@
       <string>uni1FE5</string>
       <key>rhopsili</key>
       <string>uni1FE4</string>
+      <key>rightBlock</key>
+      <string>rtblock</string>
+      <key>rightOneEighthBlock</key>
+      <string>uni2595</string>
       <key>ringcomb</key>
       <string>uni030A</string>
       <key>ringcomb_acutecomb</key>
@@ -3841,6 +4925,26 @@
       <string>uni0217</string>
       <key>umacron-cy</key>
       <string>uni04EF</string>
+      <key>upperHalfBlock</key>
+      <string>upblock</string>
+      <key>upperLeftAndLowerLeftAndLowerRightBlock</key>
+      <string>uni2599</string>
+      <key>upperLeftAndLowerRightBlock</key>
+      <string>uni259A</string>
+      <key>upperLeftAndUpperRightAndLowerLeftBlock</key>
+      <string>uni259B</string>
+      <key>upperLeftAndUpperRightAndLowerRightBlock</key>
+      <string>uni259C</string>
+      <key>upperLeftBlock</key>
+      <string>uni2598</string>
+      <key>upperOneEighthBlock</key>
+      <string>uni2594</string>
+      <key>upperRightAndLowerLeftAndLowerRightBlock</key>
+      <string>uni259F</string>
+      <key>upperRightAndLowerLeftBlock</key>
+      <string>uni259E</string>
+      <key>upperRightBlock</key>
+      <string>uni259D</string>
       <key>upsilondasia</key>
       <string>uni1F51</string>
       <key>upsilondasiaoxia</key>

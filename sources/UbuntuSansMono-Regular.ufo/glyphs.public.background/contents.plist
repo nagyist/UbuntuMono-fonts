@@ -2,8 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>ballotBoxWithCheck</key>
+    <string>ballotB_oxW_ithC_heck.glif</string>
+    <key>checkmark</key>
+    <string>checkmark.glif</string>
     <key>dieresiscomb_gravecomb.cap</key>
     <string>dieresiscomb_gravecomb.cap.glif</string>
+    <key>dots1-braille</key>
+    <string>dots1-braille.glif</string>
     <key>hryvnia.osf</key>
     <string>hryvnia.osf.glif</string>
     <key>jstroke</key>

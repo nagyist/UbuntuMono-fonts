@@ -1132,6 +1132,12 @@
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.backslash.case</key>
       <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ballotBox</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ballotBoxWithCheck</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ballotBoxWithX</key>
+      <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.bar</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.be-cy</key>
@@ -1168,11 +1174,117 @@
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.boxDownDoubleAndRightSingle</key>
       <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxDownHeavyAndHorizontalLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxDownHeavyAndLeftLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxDownHeavyAndLeftUpLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxDownHeavyAndRightLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxDownHeavyAndRightUpLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxDownHeavyAndUpHorizontalLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxDownLightAndHorizontalHeavy</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxDownLightAndLeftHeavy</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxDownLightAndLeftUpHeavy</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxDownLightAndRightHeavy</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxDownLightAndRightUpHeavy</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxDownLightAndUpHorizontalHeavy</key>
+      <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.boxDownSingleAndHorizontalDouble</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.boxDownSingleAndLeftDouble</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.boxDownSingleAndRightDouble</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyDoubleDashHorizontal</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyDoubleDashVertical</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyDown</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyDownAndHorizontal</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyDownAndLeft</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyDownAndRight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyHorizontal</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyLeft</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyLeftAndLightRight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyQuadrupleDashHorizontal</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyQuadrupleDashVertical</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyRight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyTripleDashHorizontal</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyTripleDashVertical</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyUp</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyUpAndHorizontal</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyUpAndLeft</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyUpAndLightDown</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyUpAndRight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyVertical</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyVerticalAndHorizontal</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyVerticalAndLeft</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxHeavyVerticalAndRight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLeftDownHeavyAndRightUpLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLeftHeavyAndRightDownLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLeftHeavyAndRightUpLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLeftHeavyAndRightVerticalLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLeftLightAndRightDownHeavy</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLeftLightAndRightUpHeavy</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLeftLightAndRightVerticalHeavy</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLeftUpHeavyAndRightDownLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLightArcDownAndLeft</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLightArcDownAndRight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLightArcUpAndLeft</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLightArcUpAndRight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLightDiagonalCross</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLightDiagonalUpperLeftToLowerRight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLightDiagonalUpperRightToLowerLeft</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLightDoubleDashHorizontal</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLightDoubleDashVertical</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLightDown</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.boxLightDownAndHorizontal</key>
       <integer>1</integer>
@@ -1181,6 +1293,24 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.boxLightDownAndRight</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.boxLightHorizontal</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLightLeft</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLightLeftAndHeavyRight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLightQuadrupleDashHorizontal</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLightQuadrupleDashVertical</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLightRight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLightTripleDashHorizontal</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLightTripleDashVertical</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLightUp</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxLightUpAndHeavyDown</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.boxLightUpAndHorizontal</key>
       <integer>1</integer>
@@ -1196,11 +1326,51 @@
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.boxLightVerticalAndRight</key>
       <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxRightDownHeavyAndLeftUpLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxRightHeavyAndLeftDownLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxRightHeavyAndLeftUpLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxRightHeavyAndLeftVerticalLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxRightLightAndLeftDownHeavy</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxRightLightAndLeftUpHeavy</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxRightLightAndLeftVerticalHeavy</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxRightUpHeavyAndLeftDownLight</key>
+      <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.boxUpDoubleAndHorizontalSingle</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.boxUpDoubleAndLeftSingle</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.boxUpDoubleAndRightSingle</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxUpHeavyAndDownHorizontalLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxUpHeavyAndHorizontalLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxUpHeavyAndLeftDownLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxUpHeavyAndLeftLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxUpHeavyAndRightDownLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxUpHeavyAndRightLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxUpLightAndDownHorizontalHeavy</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxUpLightAndHorizontalHeavy</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxUpLightAndLeftDownHeavy</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxUpLightAndLeftHeavy</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxUpLightAndRightDownHeavy</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxUpLightAndRightHeavy</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.boxUpSingleAndHorizontalDouble</key>
       <integer>1</integer>
@@ -1210,15 +1380,23 @@
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.boxVerticalDoubleAndHorizontalSingle</key>
       <integer>1</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.boxVerticalDoubleAndHorizontalSingle.001</key>
-      <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.boxVerticalDoubleAndLeftSingle</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.boxVerticalDoubleAndRightSingle</key>
       <integer>1</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.boxVerticalSingleAndHorizontalDouble</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxVerticalHeavyAndHorizontalLight</key>
       <integer>1</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.boxVerticalSingleAndHorizontalDouble.001</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxVerticalHeavyAndLeftLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxVerticalHeavyAndRightLight</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxVerticalLightAndHorizontalHeavy</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxVerticalLightAndLeftHeavy</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxVerticalLightAndRightHeavy</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.boxVerticalSingleAndHorizontalDouble</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.boxVerticalSingleAndLeftDouble</key>
       <integer>1</integer>
@@ -1293,7 +1471,7 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.cheabkhasian-cy</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.checkmark</key>
-      <integer>1</integer>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.chedescender-cy</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.chedescenderabkhasian-cy</key>
@@ -1331,7 +1509,7 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.copyright</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.crossMark</key>
-      <integer>1</integer>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.cstroke</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.currency</key>
@@ -1415,6 +1593,516 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.dotaccentcomb_macroncomb</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dotbelowcomb</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1-braille</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots123-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1234-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12345-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots123456-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1234567-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12345678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1234568-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots123457-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1234578-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots123458-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12346-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots123467-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1234678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots123468-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12347-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots123478-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12348-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1235-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12356-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots123567-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1235678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots123568-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12357-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots123578-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12358-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1236-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12367-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots123678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12368-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1237-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12378-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1238-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots124-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1245-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12456-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots124567-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1245678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots124568-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12457-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots124578-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12458-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1246-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12467-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots124678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12468-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1247-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12478-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1248-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots125-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1256-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12567-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots125678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12568-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1257-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12578-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1258-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots126-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1267-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots12678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1268-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots127-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1278-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots128-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots13-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots134-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1345-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots13456-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots134567-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1345678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots134568-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots13457-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots134578-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots13458-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1346-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots13467-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots134678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots13468-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1347-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots13478-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1348-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots135-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1356-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots13567-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots135678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots13568-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1357-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots13578-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1358-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots136-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1367-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots13678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1368-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots137-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1378-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots138-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots14-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots145-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1456-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots14567-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots145678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots14568-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1457-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots14578-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1458-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots146-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1467-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots14678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1468-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots147-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1478-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots148-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots15-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots156-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1567-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots15678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1568-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots157-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1578-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots158-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots16-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots167-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots1678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots168-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots17-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots178-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots18-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2-braille</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots23-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots234-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2345-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots23456-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots234567-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2345678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots234568-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots23457-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots234578-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots23458-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2346-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots23467-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots234678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots23468-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2347-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots23478-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2348-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots235-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2356-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots23567-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots235678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots23568-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2357-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots23578-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2358-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots236-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2367-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots23678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2368-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots237-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2378-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots238-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots24-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots245-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2456-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots24567-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots245678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots24568-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2457-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots24578-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2458-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots246-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2467-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots24678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2468-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots247-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2478-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots248-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots25-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots256-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2567-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots25678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2568-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots257-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2578-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots258-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots26-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots267-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots2678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots268-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots27-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots278-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots28-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots3-braille</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots34-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots345-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots3456-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots34567-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots345678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots34568-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots3457-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots34578-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots3458-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots346-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots3467-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots34678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots3468-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots347-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots3478-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots348-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots35-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots356-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots3567-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots35678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots3568-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots357-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots3578-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots358-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots36-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots367-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots3678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots368-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots37-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots378-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots38-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots4-braille</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots45-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots456-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots4567-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots45678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots4568-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots457-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots4578-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots458-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots46-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots467-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots4678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots468-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots47-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots478-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots48-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots5-braille</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots56-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots567-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots5678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots568-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots57-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots578-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots58-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots6-braille</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots67-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots678-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots68-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots7-braille</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots78-braille</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dots8-braille</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dottedCircle</key>
       <integer>1</integer>
@@ -1932,6 +2620,20 @@
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ldot</key>
       <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.leftBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.leftFiveEighthsBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.leftOneEighthBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.leftOneQuarterBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.leftSevenEighthsBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.leftThreeEighthsBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.leftThreeQuartersBlock</key>
+      <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.less</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.lessequal</key>
@@ -1945,6 +2647,24 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.logicalnot</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.longs</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.lowerFiveEighthsBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.lowerHalfBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.lowerLeftBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.lowerOneEighthBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.lowerOneQuarterBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.lowerRightBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.lowerSevenEighthsBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.lowerThreeEighthsBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.lowerThreeQuartersBlock</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.lozenge</key>
       <integer>1</integer>
@@ -2290,6 +3010,10 @@
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.rhopsili</key>
       <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.rightBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.rightOneEighthBlock</key>
+      <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ring</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ringcomb</key>
@@ -2351,11 +3075,11 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.sha-cy</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.shadedark</key>
-      <integer>1</integer>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.shadelight</key>
-      <integer>1</integer>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.shademedium</key>
-      <integer>1</integer>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.shcha-cy</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.shha-cy</key>
@@ -2386,6 +3110,12 @@
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.space</key>
       <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.square</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.squareDark</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.squareMedium</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.sswashtail</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.sterling</key>
@@ -2541,6 +3271,26 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.underscore</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.uogonek</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.upperHalfBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.upperLeftAndLowerLeftAndLowerRightBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.upperLeftAndLowerRightBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.upperLeftAndUpperRightAndLowerLeftBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.upperLeftAndUpperRightAndLowerRightBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.upperLeftBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.upperOneEighthBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.upperRightAndLowerLeftAndLowerRightBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.upperRightAndLowerLeftBlock</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.upperRightBlock</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.upsilon</key>
       <integer>1</integer>
