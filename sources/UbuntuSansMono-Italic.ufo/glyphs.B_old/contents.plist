@@ -8,6 +8,8 @@
     <string>ballotB_oxW_ithC_heck.glif</string>
     <key>ballotBoxWithX</key>
     <string>ballotB_oxW_ithX_.glif</string>
+    <key>ballotX</key>
+    <string>ballotX_.glif</string>
     <key>boxDoubleDownAndHorizontal</key>
     <string>boxD_oubleD_ownA_ndH_orizontal.glif</string>
     <key>boxDoubleDownAndLeft</key>

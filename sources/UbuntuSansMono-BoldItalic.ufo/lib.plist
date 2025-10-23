@@ -22,7 +22,7 @@
       </dict>
     </dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3343</string>
+    <string>3434</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Export Mac Name Table Entries</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.Family Alignment Zones</key>
@@ -2366,6 +2366,7 @@
       <string>ballotBoxWithCheck</string>
       <string>ballotBoxWithX</string>
       <string>checkmark</string>
+      <string>ballotX</string>
       <string>crossMark</string>
       <string>published</string>
       <string>minute</string>
@@ -3379,6 +3380,8 @@
       <string>uni2611</string>
       <key>ballotBoxWithX</key>
       <string>uni2612</string>
+      <key>ballotX</key>
+      <string>uni2717</string>
       <key>be-cy</key>
       <string>uni0431</string>
       <key>be-cy.locl</key>

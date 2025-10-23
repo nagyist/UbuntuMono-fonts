@@ -1144,6 +1144,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ballotBoxWithX</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ballotX</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.bar</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.be-cy</key>

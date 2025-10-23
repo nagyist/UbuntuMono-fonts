@@ -414,6 +414,8 @@
     <string>backslash.glif</string>
     <key>ballotBoxWithCheck</key>
     <string>ballotB_oxW_ithC_heck.glif</string>
+    <key>ballotBoxWithX</key>
+    <string>ballotB_oxW_ithX_.glif</string>
     <key>bar</key>
     <string>bar.glif</string>
     <key>be-cy</key>
@@ -464,6 +466,8 @@
     <string>che-cy.glif</string>
     <key>cheabkhasian-cy</key>
     <string>cheabkhasian-cy.glif</string>
+    <key>checkmark</key>
+    <string>checkmark.glif</string>
     <key>chedescender-cy</key>
     <string>chedescender-cy.glif</string>
     <key>chedescenderabkhasian-cy</key>

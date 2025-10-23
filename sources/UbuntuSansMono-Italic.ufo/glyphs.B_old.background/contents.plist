@@ -4,6 +4,10 @@
   <dict>
     <key>ballotBoxWithCheck</key>
     <string>ballotB_oxW_ithC_heck.glif</string>
+    <key>ballotBoxWithX</key>
+    <string>ballotB_oxW_ithX_.glif</string>
+    <key>checkmark</key>
+    <string>checkmark.glif</string>
     <key>jstroke.dotless</key>
     <string>jstroke.dotless.glif</string>
   </dict>
