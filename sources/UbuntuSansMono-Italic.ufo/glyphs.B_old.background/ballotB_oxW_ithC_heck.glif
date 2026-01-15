@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ballotBoxWithCheck" format="2">
+  <outline>
+    <contour>
+      <point x="399" y="96" type="line"/>
+      <point x="435" y="132" type="line"/>
+      <point x="161" y="404" type="line"/>
+      <point x="125" y="368" type="line"/>
+    </contour>
+    <contour>
+      <point x="161" y="96" type="line"/>
+      <point x="435" y="368" type="line"/>
+      <point x="399" y="404" type="line"/>
+      <point x="125" y="132" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="530" y="0" type="line"/>
+      <point x="530" y="500" type="line"/>
+      <point x="30" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="81" y="51" type="line"/>
+      <point x="81" y="449" type="line"/>
+      <point x="479" y="449" type="line"/>
+      <point x="479" y="51" type="line"/>
+    </contour>
+  </outline>
+</glyph>

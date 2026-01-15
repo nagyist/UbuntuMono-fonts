@@ -274,8 +274,6 @@
     <string>E_psilonvaria.glif</string>
     <key>Er-cy</key>
     <string>E_r-cy.glif</string>
-    <key>Ereversed</key>
-    <string>E_reversed.glif</string>
     <key>Ereversed-cy</key>
     <string>E_reversed-cy.glif</string>
     <key>Ertick-cy</key>
@@ -350,6 +348,8 @@
     <string>E_tavaria.glif</string>
     <key>Eth</key>
     <string>E_th.glif</string>
+    <key>Eturned</key>
+    <string>E_turned.glif</string>
     <key>Ezh</key>
     <string>E_zh.glif</string>
     <key>Ezhcaron</key>
@@ -392,12 +392,14 @@
     <string>G_estroke-cy.glif</string>
     <key>Geupturn-cy</key>
     <string>G_eupturn-cy.glif</string>
+    <key>Gha</key>
+    <string>G_ha.glif</string>
     <key>Ghook</key>
     <string>G_hook.glif</string>
     <key>Gje-cy</key>
     <string>G_je-cy.glif</string>
-    <key>Glottalstop</key>
-    <string>G_lottalstop.glif</string>
+    <key>Glottalstopsmall</key>
+    <string>G_lottalstopsmall.glif</string>
     <key>Gstroke</key>
     <string>G_stroke.glif</string>
     <key>H</key>
@@ -604,6 +606,8 @@
     <string>O_U_.glif</string>
     <key>Oacute</key>
     <string>O_acute.glif</string>
+    <key>Obarred</key>
+    <string>O_barred.glif</string>
     <key>Obarred-cy</key>
     <string>O_barred-cy.glif</string>
     <key>Obarreddieresis-cy</key>
@@ -612,8 +616,6 @@
     <string>O_breve.glif</string>
     <key>Ocaron</key>
     <string>O_caron.glif</string>
-    <key>Ocenteredtilde</key>
-    <string>O_centeredtilde.glif</string>
     <key>Ocircumflex</key>
     <string>O_circumflex.glif</string>
     <key>Odblgrave</key>
@@ -636,8 +638,6 @@
     <string>O_horn.glif</string>
     <key>Ohungarumlaut</key>
     <string>O_hungarumlaut.glif</string>
-    <key>Oi</key>
-    <string>O_i.glif</string>
     <key>Oinvertedbreve</key>
     <string>O_invertedbreve.glif</string>
     <key>Omacron</key>
@@ -1134,6 +1134,14 @@
     <string>backslash.glif</string>
     <key>backslash.case</key>
     <string>backslash.case.glif</string>
+    <key>ballotBox</key>
+    <string>ballotB_ox.glif</string>
+    <key>ballotBoxWithCheck</key>
+    <string>ballotB_oxW_ithC_heck.glif</string>
+    <key>ballotBoxWithX</key>
+    <string>ballotB_oxW_ithX_.glif</string>
+    <key>ballotX</key>
+    <string>ballotX_.glif</string>
     <key>bar</key>
     <string>bar.glif</string>
     <key>be-cy</key>
@@ -1142,6 +1150,8 @@
     <string>be-cy.locl.glif</string>
     <key>beta</key>
     <string>beta.glif</string>
+    <key>blank-braille</key>
+    <string>blank-braille.glif</string>
     <key>boxDoubleDownAndHorizontal</key>
     <string>boxD_oubleD_ownA_ndH_orizontal.glif</string>
     <key>boxDoubleDownAndLeft</key>
@@ -1170,12 +1180,118 @@
     <string>boxD_ownD_oubleA_ndL_eftS_ingle.glif</string>
     <key>boxDownDoubleAndRightSingle</key>
     <string>boxD_ownD_oubleA_ndR_ightS_ingle.glif</string>
+    <key>boxDownHeavyAndHorizontalLight</key>
+    <string>boxD_ownH_eavyA_ndH_orizontalL_ight.glif</string>
+    <key>boxDownHeavyAndLeftLight</key>
+    <string>boxD_ownH_eavyA_ndL_eftL_ight.glif</string>
+    <key>boxDownHeavyAndLeftUpLight</key>
+    <string>boxD_ownH_eavyA_ndL_eftU_pL_ight.glif</string>
+    <key>boxDownHeavyAndRightLight</key>
+    <string>boxD_ownH_eavyA_ndR_ightL_ight.glif</string>
+    <key>boxDownHeavyAndRightUpLight</key>
+    <string>boxD_ownH_eavyA_ndR_ightU_pL_ight.glif</string>
+    <key>boxDownHeavyAndUpHorizontalLight</key>
+    <string>boxD_ownH_eavyA_ndU_pH_orizontalL_ight.glif</string>
+    <key>boxDownLightAndHorizontalHeavy</key>
+    <string>boxD_ownL_ightA_ndH_orizontalH_eavy.glif</string>
+    <key>boxDownLightAndLeftHeavy</key>
+    <string>boxD_ownL_ightA_ndL_eftH_eavy.glif</string>
+    <key>boxDownLightAndLeftUpHeavy</key>
+    <string>boxD_ownL_ightA_ndL_eftU_pH_eavy.glif</string>
+    <key>boxDownLightAndRightHeavy</key>
+    <string>boxD_ownL_ightA_ndR_ightH_eavy.glif</string>
+    <key>boxDownLightAndRightUpHeavy</key>
+    <string>boxD_ownL_ightA_ndR_ightU_pH_eavy.glif</string>
+    <key>boxDownLightAndUpHorizontalHeavy</key>
+    <string>boxD_ownL_ightA_ndU_pH_orizontalH_eavy.glif</string>
     <key>boxDownSingleAndHorizontalDouble</key>
     <string>boxD_ownS_ingleA_ndH_orizontalD_ouble.glif</string>
     <key>boxDownSingleAndLeftDouble</key>
     <string>boxD_ownS_ingleA_ndL_eftD_ouble.glif</string>
     <key>boxDownSingleAndRightDouble</key>
     <string>boxD_ownS_ingleA_ndR_ightD_ouble.glif</string>
+    <key>boxHeavyDoubleDashHorizontal</key>
+    <string>boxH_eavyD_oubleD_ashH_orizontal.glif</string>
+    <key>boxHeavyDoubleDashVertical</key>
+    <string>boxH_eavyD_oubleD_ashV_ertical.glif</string>
+    <key>boxHeavyDown</key>
+    <string>boxH_eavyD_own.glif</string>
+    <key>boxHeavyDownAndHorizontal</key>
+    <string>boxH_eavyD_ownA_ndH_orizontal.glif</string>
+    <key>boxHeavyDownAndLeft</key>
+    <string>boxH_eavyD_ownA_ndL_eft.glif</string>
+    <key>boxHeavyDownAndRight</key>
+    <string>boxH_eavyD_ownA_ndR_ight.glif</string>
+    <key>boxHeavyHorizontal</key>
+    <string>boxH_eavyH_orizontal.glif</string>
+    <key>boxHeavyLeft</key>
+    <string>boxH_eavyL_eft.glif</string>
+    <key>boxHeavyLeftAndLightRight</key>
+    <string>boxH_eavyL_eftA_ndL_ightR_ight.glif</string>
+    <key>boxHeavyQuadrupleDashHorizontal</key>
+    <string>boxH_eavyQ_uadrupleD_ashH_orizontal.glif</string>
+    <key>boxHeavyQuadrupleDashVertical</key>
+    <string>boxH_eavyQ_uadrupleD_ashV_ertical.glif</string>
+    <key>boxHeavyRight</key>
+    <string>boxH_eavyR_ight.glif</string>
+    <key>boxHeavyTripleDashHorizontal</key>
+    <string>boxH_eavyT_ripleD_ashH_orizontal.glif</string>
+    <key>boxHeavyTripleDashVertical</key>
+    <string>boxH_eavyT_ripleD_ashV_ertical.glif</string>
+    <key>boxHeavyUp</key>
+    <string>boxH_eavyU_p.glif</string>
+    <key>boxHeavyUpAndHorizontal</key>
+    <string>boxH_eavyU_pA_ndH_orizontal.glif</string>
+    <key>boxHeavyUpAndLeft</key>
+    <string>boxH_eavyU_pA_ndL_eft.glif</string>
+    <key>boxHeavyUpAndLightDown</key>
+    <string>boxH_eavyU_pA_ndL_ightD_own.glif</string>
+    <key>boxHeavyUpAndRight</key>
+    <string>boxH_eavyU_pA_ndR_ight.glif</string>
+    <key>boxHeavyVertical</key>
+    <string>boxH_eavyV_ertical.glif</string>
+    <key>boxHeavyVerticalAndHorizontal</key>
+    <string>boxH_eavyV_erticalA_ndH_orizontal.glif</string>
+    <key>boxHeavyVerticalAndLeft</key>
+    <string>boxH_eavyV_erticalA_ndL_eft.glif</string>
+    <key>boxHeavyVerticalAndRight</key>
+    <string>boxH_eavyV_erticalA_ndR_ight.glif</string>
+    <key>boxLeftDownHeavyAndRightUpLight</key>
+    <string>boxL_eftD_ownH_eavyA_ndR_ightU_pL_ight.glif</string>
+    <key>boxLeftHeavyAndRightDownLight</key>
+    <string>boxL_eftH_eavyA_ndR_ightD_ownL_ight.glif</string>
+    <key>boxLeftHeavyAndRightUpLight</key>
+    <string>boxL_eftH_eavyA_ndR_ightU_pL_ight.glif</string>
+    <key>boxLeftHeavyAndRightVerticalLight</key>
+    <string>boxL_eftH_eavyA_ndR_ightV_erticalL_ight.glif</string>
+    <key>boxLeftLightAndRightDownHeavy</key>
+    <string>boxL_eftL_ightA_ndR_ightD_ownH_eavy.glif</string>
+    <key>boxLeftLightAndRightUpHeavy</key>
+    <string>boxL_eftL_ightA_ndR_ightU_pH_eavy.glif</string>
+    <key>boxLeftLightAndRightVerticalHeavy</key>
+    <string>boxL_eftL_ightA_ndR_ightV_erticalH_eavy.glif</string>
+    <key>boxLeftUpHeavyAndRightDownLight</key>
+    <string>boxL_eftU_pH_eavyA_ndR_ightD_ownL_ight.glif</string>
+    <key>boxLightArcDownAndLeft</key>
+    <string>boxL_ightA_rcD_ownA_ndL_eft.glif</string>
+    <key>boxLightArcDownAndRight</key>
+    <string>boxL_ightA_rcD_ownA_ndR_ight.glif</string>
+    <key>boxLightArcUpAndLeft</key>
+    <string>boxL_ightA_rcU_pA_ndL_eft.glif</string>
+    <key>boxLightArcUpAndRight</key>
+    <string>boxL_ightA_rcU_pA_ndR_ight.glif</string>
+    <key>boxLightDiagonalCross</key>
+    <string>boxL_ightD_iagonalC_ross.glif</string>
+    <key>boxLightDiagonalUpperLeftToLowerRight</key>
+    <string>boxL_ightD_iagonalU_pperL_eftT_oL_owerR_ight.glif</string>
+    <key>boxLightDiagonalUpperRightToLowerLeft</key>
+    <string>boxL_ightD_iagonalU_pperR_ightT_oL_owerL_eft.glif</string>
+    <key>boxLightDoubleDashHorizontal</key>
+    <string>boxL_ightD_oubleD_ashH_orizontal.glif</string>
+    <key>boxLightDoubleDashVertical</key>
+    <string>boxL_ightD_oubleD_ashV_ertical.glif</string>
+    <key>boxLightDown</key>
+    <string>boxL_ightD_own.glif</string>
     <key>boxLightDownAndHorizontal</key>
     <string>boxL_ightD_ownA_ndH_orizontal.glif</string>
     <key>boxLightDownAndLeft</key>
@@ -1184,6 +1300,24 @@
     <string>boxL_ightD_ownA_ndR_ight.glif</string>
     <key>boxLightHorizontal</key>
     <string>boxL_ightH_orizontal.glif</string>
+    <key>boxLightLeft</key>
+    <string>boxL_ightL_eft.glif</string>
+    <key>boxLightLeftAndHeavyRight</key>
+    <string>boxL_ightL_eftA_ndH_eavyR_ight.glif</string>
+    <key>boxLightQuadrupleDashHorizontal</key>
+    <string>boxL_ightQ_uadrupleD_ashH_orizontal.glif</string>
+    <key>boxLightQuadrupleDashVertical</key>
+    <string>boxL_ightQ_uadrupleD_ashV_ertical.glif</string>
+    <key>boxLightRight</key>
+    <string>boxL_ightR_ight.glif</string>
+    <key>boxLightTripleDashHorizontal</key>
+    <string>boxL_ightT_ripleD_ashH_orizontal.glif</string>
+    <key>boxLightTripleDashVertical</key>
+    <string>boxL_ightT_ripleD_ashV_ertical.glif</string>
+    <key>boxLightUp</key>
+    <string>boxL_ightU_p.glif</string>
+    <key>boxLightUpAndHeavyDown</key>
+    <string>boxL_ightU_pA_ndH_eavyD_own.glif</string>
     <key>boxLightUpAndHorizontal</key>
     <string>boxL_ightU_pA_ndH_orizontal.glif</string>
     <key>boxLightUpAndLeft</key>
@@ -1198,12 +1332,52 @@
     <string>boxL_ightV_erticalA_ndL_eft.glif</string>
     <key>boxLightVerticalAndRight</key>
     <string>boxL_ightV_erticalA_ndR_ight.glif</string>
+    <key>boxRightDownHeavyAndLeftUpLight</key>
+    <string>boxR_ightD_ownH_eavyA_ndL_eftU_pL_ight.glif</string>
+    <key>boxRightHeavyAndLeftDownLight</key>
+    <string>boxR_ightH_eavyA_ndL_eftD_ownL_ight.glif</string>
+    <key>boxRightHeavyAndLeftUpLight</key>
+    <string>boxR_ightH_eavyA_ndL_eftU_pL_ight.glif</string>
+    <key>boxRightHeavyAndLeftVerticalLight</key>
+    <string>boxR_ightH_eavyA_ndL_eftV_erticalL_ight.glif</string>
+    <key>boxRightLightAndLeftDownHeavy</key>
+    <string>boxR_ightL_ightA_ndL_eftD_ownH_eavy.glif</string>
+    <key>boxRightLightAndLeftUpHeavy</key>
+    <string>boxR_ightL_ightA_ndL_eftU_pH_eavy.glif</string>
+    <key>boxRightLightAndLeftVerticalHeavy</key>
+    <string>boxR_ightL_ightA_ndL_eftV_erticalH_eavy.glif</string>
+    <key>boxRightUpHeavyAndLeftDownLight</key>
+    <string>boxR_ightU_pH_eavyA_ndL_eftD_ownL_ight.glif</string>
     <key>boxUpDoubleAndHorizontalSingle</key>
     <string>boxU_pD_oubleA_ndH_orizontalS_ingle.glif</string>
     <key>boxUpDoubleAndLeftSingle</key>
     <string>boxU_pD_oubleA_ndL_eftS_ingle.glif</string>
     <key>boxUpDoubleAndRightSingle</key>
     <string>boxU_pD_oubleA_ndR_ightS_ingle.glif</string>
+    <key>boxUpHeavyAndDownHorizontalLight</key>
+    <string>boxU_pH_eavyA_ndD_ownH_orizontalL_ight.glif</string>
+    <key>boxUpHeavyAndHorizontalLight</key>
+    <string>boxU_pH_eavyA_ndH_orizontalL_ight.glif</string>
+    <key>boxUpHeavyAndLeftDownLight</key>
+    <string>boxU_pH_eavyA_ndL_eftD_ownL_ight.glif</string>
+    <key>boxUpHeavyAndLeftLight</key>
+    <string>boxU_pH_eavyA_ndL_eftL_ight.glif</string>
+    <key>boxUpHeavyAndRightDownLight</key>
+    <string>boxU_pH_eavyA_ndR_ightD_ownL_ight.glif</string>
+    <key>boxUpHeavyAndRightLight</key>
+    <string>boxU_pH_eavyA_ndR_ightL_ight.glif</string>
+    <key>boxUpLightAndDownHorizontalHeavy</key>
+    <string>boxU_pL_ightA_ndD_ownH_orizontalH_eavy.glif</string>
+    <key>boxUpLightAndHorizontalHeavy</key>
+    <string>boxU_pL_ightA_ndH_orizontalH_eavy.glif</string>
+    <key>boxUpLightAndLeftDownHeavy</key>
+    <string>boxU_pL_ightA_ndL_eftD_ownH_eavy.glif</string>
+    <key>boxUpLightAndLeftHeavy</key>
+    <string>boxU_pL_ightA_ndL_eftH_eavy.glif</string>
+    <key>boxUpLightAndRightDownHeavy</key>
+    <string>boxU_pL_ightA_ndR_ightD_ownH_eavy.glif</string>
+    <key>boxUpLightAndRightHeavy</key>
+    <string>boxU_pL_ightA_ndR_ightH_eavy.glif</string>
     <key>boxUpSingleAndHorizontalDouble</key>
     <string>boxU_pS_ingleA_ndH_orizontalD_ouble.glif</string>
     <key>boxUpSingleAndLeftDouble</key>
@@ -1212,16 +1386,24 @@
     <string>boxU_pS_ingleA_ndR_ightD_ouble.glif</string>
     <key>boxVerticalDoubleAndHorizontalSingle</key>
     <string>boxV_erticalD_oubleA_ndH_orizontalS_ingle.glif</string>
-    <key>boxVerticalDoubleAndHorizontalSingle.001</key>
-    <string>boxV_erticalD_oubleA_ndH_orizontalS_ingle.001.glif</string>
     <key>boxVerticalDoubleAndLeftSingle</key>
     <string>boxV_erticalD_oubleA_ndL_eftS_ingle.glif</string>
     <key>boxVerticalDoubleAndRightSingle</key>
     <string>boxV_erticalD_oubleA_ndR_ightS_ingle.glif</string>
+    <key>boxVerticalHeavyAndHorizontalLight</key>
+    <string>boxV_erticalH_eavyA_ndH_orizontalL_ight.glif</string>
+    <key>boxVerticalHeavyAndLeftLight</key>
+    <string>boxV_erticalH_eavyA_ndL_eftL_ight.glif</string>
+    <key>boxVerticalHeavyAndRightLight</key>
+    <string>boxV_erticalH_eavyA_ndR_ightL_ight.glif</string>
+    <key>boxVerticalLightAndHorizontalHeavy</key>
+    <string>boxV_erticalL_ightA_ndH_orizontalH_eavy.glif</string>
+    <key>boxVerticalLightAndLeftHeavy</key>
+    <string>boxV_erticalL_ightA_ndL_eftH_eavy.glif</string>
+    <key>boxVerticalLightAndRightHeavy</key>
+    <string>boxV_erticalL_ightA_ndR_ightH_eavy.glif</string>
     <key>boxVerticalSingleAndHorizontalDouble</key>
     <string>boxV_erticalS_ingleA_ndH_orizontalD_ouble.glif</string>
-    <key>boxVerticalSingleAndHorizontalDouble.001</key>
-    <string>boxV_erticalS_ingleA_ndH_orizontalD_ouble.001.glif</string>
     <key>boxVerticalSingleAndLeftDouble</key>
     <string>boxV_erticalS_ingleA_ndL_eftD_ouble.glif</string>
     <key>boxVerticalSingleAndRightDouble</key>
@@ -1416,6 +1598,516 @@
     <string>dotaccentcomb_macroncomb.glif</string>
     <key>dotbelowcomb</key>
     <string>dotbelowcomb.glif</string>
+    <key>dots1-braille</key>
+    <string>dots1-braille.glif</string>
+    <key>dots12-braille</key>
+    <string>dots12-braille.glif</string>
+    <key>dots123-braille</key>
+    <string>dots123-braille.glif</string>
+    <key>dots1234-braille</key>
+    <string>dots1234-braille.glif</string>
+    <key>dots12345-braille</key>
+    <string>dots12345-braille.glif</string>
+    <key>dots123456-braille</key>
+    <string>dots123456-braille.glif</string>
+    <key>dots1234567-braille</key>
+    <string>dots1234567-braille.glif</string>
+    <key>dots12345678-braille</key>
+    <string>dots12345678-braille.glif</string>
+    <key>dots1234568-braille</key>
+    <string>dots1234568-braille.glif</string>
+    <key>dots123457-braille</key>
+    <string>dots123457-braille.glif</string>
+    <key>dots1234578-braille</key>
+    <string>dots1234578-braille.glif</string>
+    <key>dots123458-braille</key>
+    <string>dots123458-braille.glif</string>
+    <key>dots12346-braille</key>
+    <string>dots12346-braille.glif</string>
+    <key>dots123467-braille</key>
+    <string>dots123467-braille.glif</string>
+    <key>dots1234678-braille</key>
+    <string>dots1234678-braille.glif</string>
+    <key>dots123468-braille</key>
+    <string>dots123468-braille.glif</string>
+    <key>dots12347-braille</key>
+    <string>dots12347-braille.glif</string>
+    <key>dots123478-braille</key>
+    <string>dots123478-braille.glif</string>
+    <key>dots12348-braille</key>
+    <string>dots12348-braille.glif</string>
+    <key>dots1235-braille</key>
+    <string>dots1235-braille.glif</string>
+    <key>dots12356-braille</key>
+    <string>dots12356-braille.glif</string>
+    <key>dots123567-braille</key>
+    <string>dots123567-braille.glif</string>
+    <key>dots1235678-braille</key>
+    <string>dots1235678-braille.glif</string>
+    <key>dots123568-braille</key>
+    <string>dots123568-braille.glif</string>
+    <key>dots12357-braille</key>
+    <string>dots12357-braille.glif</string>
+    <key>dots123578-braille</key>
+    <string>dots123578-braille.glif</string>
+    <key>dots12358-braille</key>
+    <string>dots12358-braille.glif</string>
+    <key>dots1236-braille</key>
+    <string>dots1236-braille.glif</string>
+    <key>dots12367-braille</key>
+    <string>dots12367-braille.glif</string>
+    <key>dots123678-braille</key>
+    <string>dots123678-braille.glif</string>
+    <key>dots12368-braille</key>
+    <string>dots12368-braille.glif</string>
+    <key>dots1237-braille</key>
+    <string>dots1237-braille.glif</string>
+    <key>dots12378-braille</key>
+    <string>dots12378-braille.glif</string>
+    <key>dots1238-braille</key>
+    <string>dots1238-braille.glif</string>
+    <key>dots124-braille</key>
+    <string>dots124-braille.glif</string>
+    <key>dots1245-braille</key>
+    <string>dots1245-braille.glif</string>
+    <key>dots12456-braille</key>
+    <string>dots12456-braille.glif</string>
+    <key>dots124567-braille</key>
+    <string>dots124567-braille.glif</string>
+    <key>dots1245678-braille</key>
+    <string>dots1245678-braille.glif</string>
+    <key>dots124568-braille</key>
+    <string>dots124568-braille.glif</string>
+    <key>dots12457-braille</key>
+    <string>dots12457-braille.glif</string>
+    <key>dots124578-braille</key>
+    <string>dots124578-braille.glif</string>
+    <key>dots12458-braille</key>
+    <string>dots12458-braille.glif</string>
+    <key>dots1246-braille</key>
+    <string>dots1246-braille.glif</string>
+    <key>dots12467-braille</key>
+    <string>dots12467-braille.glif</string>
+    <key>dots124678-braille</key>
+    <string>dots124678-braille.glif</string>
+    <key>dots12468-braille</key>
+    <string>dots12468-braille.glif</string>
+    <key>dots1247-braille</key>
+    <string>dots1247-braille.glif</string>
+    <key>dots12478-braille</key>
+    <string>dots12478-braille.glif</string>
+    <key>dots1248-braille</key>
+    <string>dots1248-braille.glif</string>
+    <key>dots125-braille</key>
+    <string>dots125-braille.glif</string>
+    <key>dots1256-braille</key>
+    <string>dots1256-braille.glif</string>
+    <key>dots12567-braille</key>
+    <string>dots12567-braille.glif</string>
+    <key>dots125678-braille</key>
+    <string>dots125678-braille.glif</string>
+    <key>dots12568-braille</key>
+    <string>dots12568-braille.glif</string>
+    <key>dots1257-braille</key>
+    <string>dots1257-braille.glif</string>
+    <key>dots12578-braille</key>
+    <string>dots12578-braille.glif</string>
+    <key>dots1258-braille</key>
+    <string>dots1258-braille.glif</string>
+    <key>dots126-braille</key>
+    <string>dots126-braille.glif</string>
+    <key>dots1267-braille</key>
+    <string>dots1267-braille.glif</string>
+    <key>dots12678-braille</key>
+    <string>dots12678-braille.glif</string>
+    <key>dots1268-braille</key>
+    <string>dots1268-braille.glif</string>
+    <key>dots127-braille</key>
+    <string>dots127-braille.glif</string>
+    <key>dots1278-braille</key>
+    <string>dots1278-braille.glif</string>
+    <key>dots128-braille</key>
+    <string>dots128-braille.glif</string>
+    <key>dots13-braille</key>
+    <string>dots13-braille.glif</string>
+    <key>dots134-braille</key>
+    <string>dots134-braille.glif</string>
+    <key>dots1345-braille</key>
+    <string>dots1345-braille.glif</string>
+    <key>dots13456-braille</key>
+    <string>dots13456-braille.glif</string>
+    <key>dots134567-braille</key>
+    <string>dots134567-braille.glif</string>
+    <key>dots1345678-braille</key>
+    <string>dots1345678-braille.glif</string>
+    <key>dots134568-braille</key>
+    <string>dots134568-braille.glif</string>
+    <key>dots13457-braille</key>
+    <string>dots13457-braille.glif</string>
+    <key>dots134578-braille</key>
+    <string>dots134578-braille.glif</string>
+    <key>dots13458-braille</key>
+    <string>dots13458-braille.glif</string>
+    <key>dots1346-braille</key>
+    <string>dots1346-braille.glif</string>
+    <key>dots13467-braille</key>
+    <string>dots13467-braille.glif</string>
+    <key>dots134678-braille</key>
+    <string>dots134678-braille.glif</string>
+    <key>dots13468-braille</key>
+    <string>dots13468-braille.glif</string>
+    <key>dots1347-braille</key>
+    <string>dots1347-braille.glif</string>
+    <key>dots13478-braille</key>
+    <string>dots13478-braille.glif</string>
+    <key>dots1348-braille</key>
+    <string>dots1348-braille.glif</string>
+    <key>dots135-braille</key>
+    <string>dots135-braille.glif</string>
+    <key>dots1356-braille</key>
+    <string>dots1356-braille.glif</string>
+    <key>dots13567-braille</key>
+    <string>dots13567-braille.glif</string>
+    <key>dots135678-braille</key>
+    <string>dots135678-braille.glif</string>
+    <key>dots13568-braille</key>
+    <string>dots13568-braille.glif</string>
+    <key>dots1357-braille</key>
+    <string>dots1357-braille.glif</string>
+    <key>dots13578-braille</key>
+    <string>dots13578-braille.glif</string>
+    <key>dots1358-braille</key>
+    <string>dots1358-braille.glif</string>
+    <key>dots136-braille</key>
+    <string>dots136-braille.glif</string>
+    <key>dots1367-braille</key>
+    <string>dots1367-braille.glif</string>
+    <key>dots13678-braille</key>
+    <string>dots13678-braille.glif</string>
+    <key>dots1368-braille</key>
+    <string>dots1368-braille.glif</string>
+    <key>dots137-braille</key>
+    <string>dots137-braille.glif</string>
+    <key>dots1378-braille</key>
+    <string>dots1378-braille.glif</string>
+    <key>dots138-braille</key>
+    <string>dots138-braille.glif</string>
+    <key>dots14-braille</key>
+    <string>dots14-braille.glif</string>
+    <key>dots145-braille</key>
+    <string>dots145-braille.glif</string>
+    <key>dots1456-braille</key>
+    <string>dots1456-braille.glif</string>
+    <key>dots14567-braille</key>
+    <string>dots14567-braille.glif</string>
+    <key>dots145678-braille</key>
+    <string>dots145678-braille.glif</string>
+    <key>dots14568-braille</key>
+    <string>dots14568-braille.glif</string>
+    <key>dots1457-braille</key>
+    <string>dots1457-braille.glif</string>
+    <key>dots14578-braille</key>
+    <string>dots14578-braille.glif</string>
+    <key>dots1458-braille</key>
+    <string>dots1458-braille.glif</string>
+    <key>dots146-braille</key>
+    <string>dots146-braille.glif</string>
+    <key>dots1467-braille</key>
+    <string>dots1467-braille.glif</string>
+    <key>dots14678-braille</key>
+    <string>dots14678-braille.glif</string>
+    <key>dots1468-braille</key>
+    <string>dots1468-braille.glif</string>
+    <key>dots147-braille</key>
+    <string>dots147-braille.glif</string>
+    <key>dots1478-braille</key>
+    <string>dots1478-braille.glif</string>
+    <key>dots148-braille</key>
+    <string>dots148-braille.glif</string>
+    <key>dots15-braille</key>
+    <string>dots15-braille.glif</string>
+    <key>dots156-braille</key>
+    <string>dots156-braille.glif</string>
+    <key>dots1567-braille</key>
+    <string>dots1567-braille.glif</string>
+    <key>dots15678-braille</key>
+    <string>dots15678-braille.glif</string>
+    <key>dots1568-braille</key>
+    <string>dots1568-braille.glif</string>
+    <key>dots157-braille</key>
+    <string>dots157-braille.glif</string>
+    <key>dots1578-braille</key>
+    <string>dots1578-braille.glif</string>
+    <key>dots158-braille</key>
+    <string>dots158-braille.glif</string>
+    <key>dots16-braille</key>
+    <string>dots16-braille.glif</string>
+    <key>dots167-braille</key>
+    <string>dots167-braille.glif</string>
+    <key>dots1678-braille</key>
+    <string>dots1678-braille.glif</string>
+    <key>dots168-braille</key>
+    <string>dots168-braille.glif</string>
+    <key>dots17-braille</key>
+    <string>dots17-braille.glif</string>
+    <key>dots178-braille</key>
+    <string>dots178-braille.glif</string>
+    <key>dots18-braille</key>
+    <string>dots18-braille.glif</string>
+    <key>dots2-braille</key>
+    <string>dots2-braille.glif</string>
+    <key>dots23-braille</key>
+    <string>dots23-braille.glif</string>
+    <key>dots234-braille</key>
+    <string>dots234-braille.glif</string>
+    <key>dots2345-braille</key>
+    <string>dots2345-braille.glif</string>
+    <key>dots23456-braille</key>
+    <string>dots23456-braille.glif</string>
+    <key>dots234567-braille</key>
+    <string>dots234567-braille.glif</string>
+    <key>dots2345678-braille</key>
+    <string>dots2345678-braille.glif</string>
+    <key>dots234568-braille</key>
+    <string>dots234568-braille.glif</string>
+    <key>dots23457-braille</key>
+    <string>dots23457-braille.glif</string>
+    <key>dots234578-braille</key>
+    <string>dots234578-braille.glif</string>
+    <key>dots23458-braille</key>
+    <string>dots23458-braille.glif</string>
+    <key>dots2346-braille</key>
+    <string>dots2346-braille.glif</string>
+    <key>dots23467-braille</key>
+    <string>dots23467-braille.glif</string>
+    <key>dots234678-braille</key>
+    <string>dots234678-braille.glif</string>
+    <key>dots23468-braille</key>
+    <string>dots23468-braille.glif</string>
+    <key>dots2347-braille</key>
+    <string>dots2347-braille.glif</string>
+    <key>dots23478-braille</key>
+    <string>dots23478-braille.glif</string>
+    <key>dots2348-braille</key>
+    <string>dots2348-braille.glif</string>
+    <key>dots235-braille</key>
+    <string>dots235-braille.glif</string>
+    <key>dots2356-braille</key>
+    <string>dots2356-braille.glif</string>
+    <key>dots23567-braille</key>
+    <string>dots23567-braille.glif</string>
+    <key>dots235678-braille</key>
+    <string>dots235678-braille.glif</string>
+    <key>dots23568-braille</key>
+    <string>dots23568-braille.glif</string>
+    <key>dots2357-braille</key>
+    <string>dots2357-braille.glif</string>
+    <key>dots23578-braille</key>
+    <string>dots23578-braille.glif</string>
+    <key>dots2358-braille</key>
+    <string>dots2358-braille.glif</string>
+    <key>dots236-braille</key>
+    <string>dots236-braille.glif</string>
+    <key>dots2367-braille</key>
+    <string>dots2367-braille.glif</string>
+    <key>dots23678-braille</key>
+    <string>dots23678-braille.glif</string>
+    <key>dots2368-braille</key>
+    <string>dots2368-braille.glif</string>
+    <key>dots237-braille</key>
+    <string>dots237-braille.glif</string>
+    <key>dots2378-braille</key>
+    <string>dots2378-braille.glif</string>
+    <key>dots238-braille</key>
+    <string>dots238-braille.glif</string>
+    <key>dots24-braille</key>
+    <string>dots24-braille.glif</string>
+    <key>dots245-braille</key>
+    <string>dots245-braille.glif</string>
+    <key>dots2456-braille</key>
+    <string>dots2456-braille.glif</string>
+    <key>dots24567-braille</key>
+    <string>dots24567-braille.glif</string>
+    <key>dots245678-braille</key>
+    <string>dots245678-braille.glif</string>
+    <key>dots24568-braille</key>
+    <string>dots24568-braille.glif</string>
+    <key>dots2457-braille</key>
+    <string>dots2457-braille.glif</string>
+    <key>dots24578-braille</key>
+    <string>dots24578-braille.glif</string>
+    <key>dots2458-braille</key>
+    <string>dots2458-braille.glif</string>
+    <key>dots246-braille</key>
+    <string>dots246-braille.glif</string>
+    <key>dots2467-braille</key>
+    <string>dots2467-braille.glif</string>
+    <key>dots24678-braille</key>
+    <string>dots24678-braille.glif</string>
+    <key>dots2468-braille</key>
+    <string>dots2468-braille.glif</string>
+    <key>dots247-braille</key>
+    <string>dots247-braille.glif</string>
+    <key>dots2478-braille</key>
+    <string>dots2478-braille.glif</string>
+    <key>dots248-braille</key>
+    <string>dots248-braille.glif</string>
+    <key>dots25-braille</key>
+    <string>dots25-braille.glif</string>
+    <key>dots256-braille</key>
+    <string>dots256-braille.glif</string>
+    <key>dots2567-braille</key>
+    <string>dots2567-braille.glif</string>
+    <key>dots25678-braille</key>
+    <string>dots25678-braille.glif</string>
+    <key>dots2568-braille</key>
+    <string>dots2568-braille.glif</string>
+    <key>dots257-braille</key>
+    <string>dots257-braille.glif</string>
+    <key>dots2578-braille</key>
+    <string>dots2578-braille.glif</string>
+    <key>dots258-braille</key>
+    <string>dots258-braille.glif</string>
+    <key>dots26-braille</key>
+    <string>dots26-braille.glif</string>
+    <key>dots267-braille</key>
+    <string>dots267-braille.glif</string>
+    <key>dots2678-braille</key>
+    <string>dots2678-braille.glif</string>
+    <key>dots268-braille</key>
+    <string>dots268-braille.glif</string>
+    <key>dots27-braille</key>
+    <string>dots27-braille.glif</string>
+    <key>dots278-braille</key>
+    <string>dots278-braille.glif</string>
+    <key>dots28-braille</key>
+    <string>dots28-braille.glif</string>
+    <key>dots3-braille</key>
+    <string>dots3-braille.glif</string>
+    <key>dots34-braille</key>
+    <string>dots34-braille.glif</string>
+    <key>dots345-braille</key>
+    <string>dots345-braille.glif</string>
+    <key>dots3456-braille</key>
+    <string>dots3456-braille.glif</string>
+    <key>dots34567-braille</key>
+    <string>dots34567-braille.glif</string>
+    <key>dots345678-braille</key>
+    <string>dots345678-braille.glif</string>
+    <key>dots34568-braille</key>
+    <string>dots34568-braille.glif</string>
+    <key>dots3457-braille</key>
+    <string>dots3457-braille.glif</string>
+    <key>dots34578-braille</key>
+    <string>dots34578-braille.glif</string>
+    <key>dots3458-braille</key>
+    <string>dots3458-braille.glif</string>
+    <key>dots346-braille</key>
+    <string>dots346-braille.glif</string>
+    <key>dots3467-braille</key>
+    <string>dots3467-braille.glif</string>
+    <key>dots34678-braille</key>
+    <string>dots34678-braille.glif</string>
+    <key>dots3468-braille</key>
+    <string>dots3468-braille.glif</string>
+    <key>dots347-braille</key>
+    <string>dots347-braille.glif</string>
+    <key>dots3478-braille</key>
+    <string>dots3478-braille.glif</string>
+    <key>dots348-braille</key>
+    <string>dots348-braille.glif</string>
+    <key>dots35-braille</key>
+    <string>dots35-braille.glif</string>
+    <key>dots356-braille</key>
+    <string>dots356-braille.glif</string>
+    <key>dots3567-braille</key>
+    <string>dots3567-braille.glif</string>
+    <key>dots35678-braille</key>
+    <string>dots35678-braille.glif</string>
+    <key>dots3568-braille</key>
+    <string>dots3568-braille.glif</string>
+    <key>dots357-braille</key>
+    <string>dots357-braille.glif</string>
+    <key>dots3578-braille</key>
+    <string>dots3578-braille.glif</string>
+    <key>dots358-braille</key>
+    <string>dots358-braille.glif</string>
+    <key>dots36-braille</key>
+    <string>dots36-braille.glif</string>
+    <key>dots367-braille</key>
+    <string>dots367-braille.glif</string>
+    <key>dots3678-braille</key>
+    <string>dots3678-braille.glif</string>
+    <key>dots368-braille</key>
+    <string>dots368-braille.glif</string>
+    <key>dots37-braille</key>
+    <string>dots37-braille.glif</string>
+    <key>dots378-braille</key>
+    <string>dots378-braille.glif</string>
+    <key>dots38-braille</key>
+    <string>dots38-braille.glif</string>
+    <key>dots4-braille</key>
+    <string>dots4-braille.glif</string>
+    <key>dots45-braille</key>
+    <string>dots45-braille.glif</string>
+    <key>dots456-braille</key>
+    <string>dots456-braille.glif</string>
+    <key>dots4567-braille</key>
+    <string>dots4567-braille.glif</string>
+    <key>dots45678-braille</key>
+    <string>dots45678-braille.glif</string>
+    <key>dots4568-braille</key>
+    <string>dots4568-braille.glif</string>
+    <key>dots457-braille</key>
+    <string>dots457-braille.glif</string>
+    <key>dots4578-braille</key>
+    <string>dots4578-braille.glif</string>
+    <key>dots458-braille</key>
+    <string>dots458-braille.glif</string>
+    <key>dots46-braille</key>
+    <string>dots46-braille.glif</string>
+    <key>dots467-braille</key>
+    <string>dots467-braille.glif</string>
+    <key>dots4678-braille</key>
+    <string>dots4678-braille.glif</string>
+    <key>dots468-braille</key>
+    <string>dots468-braille.glif</string>
+    <key>dots47-braille</key>
+    <string>dots47-braille.glif</string>
+    <key>dots478-braille</key>
+    <string>dots478-braille.glif</string>
+    <key>dots48-braille</key>
+    <string>dots48-braille.glif</string>
+    <key>dots5-braille</key>
+    <string>dots5-braille.glif</string>
+    <key>dots56-braille</key>
+    <string>dots56-braille.glif</string>
+    <key>dots567-braille</key>
+    <string>dots567-braille.glif</string>
+    <key>dots5678-braille</key>
+    <string>dots5678-braille.glif</string>
+    <key>dots568-braille</key>
+    <string>dots568-braille.glif</string>
+    <key>dots57-braille</key>
+    <string>dots57-braille.glif</string>
+    <key>dots578-braille</key>
+    <string>dots578-braille.glif</string>
+    <key>dots58-braille</key>
+    <string>dots58-braille.glif</string>
+    <key>dots6-braille</key>
+    <string>dots6-braille.glif</string>
+    <key>dots67-braille</key>
+    <string>dots67-braille.glif</string>
+    <key>dots678-braille</key>
+    <string>dots678-braille.glif</string>
+    <key>dots68-braille</key>
+    <string>dots68-braille.glif</string>
+    <key>dots7-braille</key>
+    <string>dots7-braille.glif</string>
+    <key>dots78-braille</key>
+    <string>dots78-braille.glif</string>
+    <key>dots8-braille</key>
+    <string>dots8-braille.glif</string>
     <key>dottedCircle</key>
     <string>dottedC_ircle.glif</string>
     <key>dtopbar</key>
@@ -1688,6 +2380,8 @@
     <string>gestroke-cy.glif</string>
     <key>geupturn-cy</key>
     <string>geupturn-cy.glif</string>
+    <key>gha</key>
+    <string>gha.glif</string>
     <key>gje-cy</key>
     <string>gje-cy.glif</string>
     <key>glottalinvertedstroke</key>
@@ -1746,8 +2440,8 @@
     <string>hungarumlaut.glif</string>
     <key>hungarumlautcomb</key>
     <string>hungarumlautcomb.glif</string>
-    <key>hv</key>
-    <string>hv.glif</string>
+    <key>hwair</key>
+    <string>hwair.glif</string>
     <key>hyphen</key>
     <string>hyphen.glif</string>
     <key>hyphen.case</key>
@@ -1802,8 +2496,6 @@
     <string>iishorttail-cy.glif</string>
     <key>ij</key>
     <string>ij.glif</string>
-    <key>ijacute</key>
-    <string>ijacute.glif</string>
     <key>imacron</key>
     <string>imacron.glif</string>
     <key>imacron-cy</key>
@@ -1918,8 +2610,8 @@
     <string>lacute.glif</string>
     <key>lambda</key>
     <string>lambda.glif</string>
-    <key>lambdastroke</key>
-    <string>lambdastroke.glif</string>
+    <key>lambdastroke-latin</key>
+    <string>lambdastroke-latin.glif</string>
     <key>lbar</key>
     <string>lbar.glif</string>
     <key>lcaron</key>
@@ -1930,6 +2622,20 @@
     <string>lcurl.glif</string>
     <key>ldot</key>
     <string>ldot.glif</string>
+    <key>leftBlock</key>
+    <string>leftB_lock.glif</string>
+    <key>leftFiveEighthsBlock</key>
+    <string>leftF_iveE_ighthsB_lock.glif</string>
+    <key>leftOneEighthBlock</key>
+    <string>leftO_neE_ighthB_lock.glif</string>
+    <key>leftOneQuarterBlock</key>
+    <string>leftO_neQ_uarterB_lock.glif</string>
+    <key>leftSevenEighthsBlock</key>
+    <string>leftS_evenE_ighthsB_lock.glif</string>
+    <key>leftThreeEighthsBlock</key>
+    <string>leftT_hreeE_ighthsB_lock.glif</string>
+    <key>leftThreeQuartersBlock</key>
+    <string>leftT_hreeQ_uartersB_lock.glif</string>
     <key>less</key>
     <string>less.glif</string>
     <key>lessequal</key>
@@ -1944,6 +2650,24 @@
     <string>logicalnot.glif</string>
     <key>longs</key>
     <string>longs.glif</string>
+    <key>lowerFiveEighthsBlock</key>
+    <string>lowerF_iveE_ighthsB_lock.glif</string>
+    <key>lowerHalfBlock</key>
+    <string>lowerH_alfB_lock.glif</string>
+    <key>lowerLeftBlock</key>
+    <string>lowerL_eftB_lock.glif</string>
+    <key>lowerOneEighthBlock</key>
+    <string>lowerO_neE_ighthB_lock.glif</string>
+    <key>lowerOneQuarterBlock</key>
+    <string>lowerO_neQ_uarterB_lock.glif</string>
+    <key>lowerRightBlock</key>
+    <string>lowerR_ightB_lock.glif</string>
+    <key>lowerSevenEighthsBlock</key>
+    <string>lowerS_evenE_ighthsB_lock.glif</string>
+    <key>lowerThreeEighthsBlock</key>
+    <string>lowerT_hreeE_ighthsB_lock.glif</string>
+    <key>lowerThreeQuartersBlock</key>
+    <string>lowerT_hreeQ_uartersB_lock.glif</string>
     <key>lozenge</key>
     <string>lozenge.glif</string>
     <key>lslash</key>
@@ -2000,8 +2724,8 @@
     <string>nj.glif</string>
     <key>nje-cy</key>
     <string>nje-cy.glif</string>
-    <key>nlegrightlong</key>
-    <string>nlegrightlong.glif</string>
+    <key>nlongrightleg</key>
+    <string>nlongrightleg.glif</string>
     <key>notequal</key>
     <string>notequal.glif</string>
     <key>ntilde</key>
@@ -2052,8 +2776,6 @@
     <string>ohorn.glif</string>
     <key>ohungarumlaut</key>
     <string>ohungarumlaut.glif</string>
-    <key>oi</key>
-    <string>oi.glif</string>
     <key>oinvertedbreve</key>
     <string>oinvertedbreve.glif</string>
     <key>omacron</key>
@@ -2286,6 +3008,10 @@
     <string>rhodasia.glif</string>
     <key>rhopsili</key>
     <string>rhopsili.glif</string>
+    <key>rightBlock</key>
+    <string>rightB_lock.glif</string>
+    <key>rightOneEighthBlock</key>
+    <string>rightO_neE_ighthB_lock.glif</string>
     <key>ring</key>
     <string>ring.glif</string>
     <key>ringcomb</key>
@@ -2382,6 +3108,12 @@
     <string>softsign-cy.glif</string>
     <key>space</key>
     <string>space.glif</string>
+    <key>square</key>
+    <string>square.glif</string>
+    <key>squareDark</key>
+    <string>squareD_ark.glif</string>
+    <key>squareMedium</key>
+    <string>squareM_edium.glif</string>
     <key>sswashtail</key>
     <string>sswashtail.glif</string>
     <key>sterling</key>
@@ -2536,6 +3268,26 @@
     <string>underscore.glif</string>
     <key>uogonek</key>
     <string>uogonek.glif</string>
+    <key>upperHalfBlock</key>
+    <string>upperH_alfB_lock.glif</string>
+    <key>upperLeftAndLowerLeftAndLowerRightBlock</key>
+    <string>upperL_eftA_ndL_owerL_eftA_ndL_owerR_ightB_lock.glif</string>
+    <key>upperLeftAndLowerRightBlock</key>
+    <string>upperL_eftA_ndL_owerR_ightB_lock.glif</string>
+    <key>upperLeftAndUpperRightAndLowerLeftBlock</key>
+    <string>upperL_eftA_ndU_pperR_ightA_ndL_owerL_eftB_lock.glif</string>
+    <key>upperLeftAndUpperRightAndLowerRightBlock</key>
+    <string>upperL_eftA_ndU_pperR_ightA_ndL_owerR_ightB_lock.glif</string>
+    <key>upperLeftBlock</key>
+    <string>upperL_eftB_lock.glif</string>
+    <key>upperOneEighthBlock</key>
+    <string>upperO_neE_ighthB_lock.glif</string>
+    <key>upperRightAndLowerLeftAndLowerRightBlock</key>
+    <string>upperR_ightA_ndL_owerL_eftA_ndL_owerR_ightB_lock.glif</string>
+    <key>upperRightAndLowerLeftBlock</key>
+    <string>upperR_ightA_ndL_owerL_eftB_lock.glif</string>
+    <key>upperRightBlock</key>
+    <string>upperR_ightB_lock.glif</string>
     <key>upsilon</key>
     <string>upsilon.glif</string>
     <key>upsilondasia</key>

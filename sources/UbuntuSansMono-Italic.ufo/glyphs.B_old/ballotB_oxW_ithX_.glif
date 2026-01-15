@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ballotBoxWithX" format="2">
+  <advance width="560"/>
+  <unicode hex="2612"/>
+  <outline>
+    <contour>
+      <point x="369" y="111" type="line"/>
+      <point x="420" y="161" type="line"/>
+      <point x="190" y="389" type="line"/>
+      <point x="140" y="339" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="111" type="line"/>
+      <point x="420" y="339" type="line"/>
+      <point x="370" y="389" type="line"/>
+      <point x="140" y="161" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="530" y="0" type="line"/>
+      <point x="530" y="500" type="line"/>
+      <point x="30" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="80" type="line"/>
+      <point x="110" y="420" type="line"/>
+      <point x="450" y="420" type="line"/>
+      <point x="450" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

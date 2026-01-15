@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ballotBoxWithCheck" format="2">
+  <advance width="560"/>
+  <unicode hex="2611"/>
+  <outline>
+    <contour>
+      <point x="242" y="92" type="line"/>
+      <point x="449" y="374" type="line"/>
+      <point x="411" y="404" type="line"/>
+      <point x="237" y="165" type="line"/>
+      <point x="144" y="260" type="line"/>
+      <point x="110" y="225" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="530" y="0" type="line"/>
+      <point x="530" y="500" type="line"/>
+      <point x="30" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="81" y="51" type="line"/>
+      <point x="81" y="449" type="line"/>
+      <point x="479" y="449" type="line"/>
+      <point x="479" y="51" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

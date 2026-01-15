@@ -84,8 +84,6 @@
     <string>E_ogonek.glif</string>
     <key>Eopen</key>
     <string>E_open.glif</string>
-    <key>Ereversed</key>
-    <string>E_reversed.glif</string>
     <key>Ereversed-cy</key>
     <string>E_reversed-cy.glif</string>
     <key>Ertick-cy</key>
@@ -96,6 +94,8 @@
     <string>E_taprosgegrammeni.glif</string>
     <key>Eth</key>
     <string>E_th.glif</string>
+    <key>Eturned</key>
+    <string>E_turned.glif</string>
     <key>Ezh</key>
     <string>E_zh.glif</string>
     <key>Ezhreversed</key>
@@ -116,10 +116,12 @@
     <string>G_estroke-cy.glif</string>
     <key>Geupturn-cy</key>
     <string>G_eupturn-cy.glif</string>
+    <key>Gha</key>
+    <string>G_ha.glif</string>
     <key>Ghook</key>
     <string>G_hook.glif</string>
-    <key>Glottalstop</key>
-    <string>G_lottalstop.glif</string>
+    <key>Glottalstopsmall</key>
+    <string>G_lottalstopsmall.glif</string>
     <key>Gstroke</key>
     <string>G_stroke.glif</string>
     <key>H</key>
@@ -196,10 +198,10 @@
     <string>O_E_.glif</string>
     <key>OU</key>
     <string>O_U_.glif</string>
+    <key>Obarred</key>
+    <string>O_barred.glif</string>
     <key>Obarred-cy</key>
     <string>O_barred-cy.glif</string>
-    <key>Ocenteredtilde</key>
-    <string>O_centeredtilde.glif</string>
     <key>Odieresismacron</key>
     <string>O_dieresismacron.glif</string>
     <key>Odotaccentmacron</key>
@@ -208,8 +210,6 @@
     <string>O_hm.glif</string>
     <key>Ohorn</key>
     <string>O_horn.glif</string>
-    <key>Oi</key>
-    <string>O_i.glif</string>
     <key>Omega</key>
     <string>O_mega.glif</string>
     <key>Omegaprosgegrammeni</key>
@@ -356,6 +356,8 @@
     <string>asterisk.glif</string>
     <key>at</key>
     <string>at.glif</string>
+    <key>ballotBoxWithCheck</key>
+    <string>ballotB_oxW_ithC_heck.glif</string>
     <key>be-cy</key>
     <string>be-cy.glif</string>
     <key>be-cy.locl</key>
@@ -594,6 +596,8 @@
     <string>gestroke-cy.glif</string>
     <key>geupturn-cy</key>
     <string>geupturn-cy.glif</string>
+    <key>gha</key>
+    <string>gha.glif</string>
     <key>glottalinvertedstroke</key>
     <string>glottalinvertedstroke.glif</string>
     <key>glottalstopsmall</key>
@@ -628,8 +632,8 @@
     <string>hryvnia.osf.glif</string>
     <key>hungarumlaut</key>
     <string>hungarumlaut.glif</string>
-    <key>hv</key>
-    <string>hv.glif</string>
+    <key>hwair</key>
+    <string>hwair.glif</string>
     <key>ii-cy</key>
     <string>ii-cy.glif</string>
     <key>iishorttail-cy</key>
@@ -676,8 +680,8 @@
     <string>lacute.glif</string>
     <key>lambda</key>
     <string>lambda.glif</string>
-    <key>lambdastroke</key>
-    <string>lambdastroke.glif</string>
+    <key>lambdastroke-latin</key>
+    <string>lambdastroke-latin.glif</string>
     <key>lbar</key>
     <string>lbar.glif</string>
     <key>less</key>
@@ -718,8 +722,8 @@
     <string>nj.glif</string>
     <key>nje-cy</key>
     <string>nje-cy.glif</string>
-    <key>nlegrightlong</key>
-    <string>nlegrightlong.glif</string>
+    <key>nlongrightleg</key>
+    <string>nlongrightleg.glif</string>
     <key>notequal</key>
     <string>notequal.glif</string>
     <key>numbersign</key>
@@ -736,8 +740,6 @@
     <string>ogonek.glif</string>
     <key>ohorn</key>
     <string>ohorn.glif</string>
-    <key>oi</key>
-    <string>oi.glif</string>
     <key>omega</key>
     <string>omega.glif</string>
     <key>one</key>
@@ -864,10 +866,6 @@
     <string>seven.numr.glif</string>
     <key>seveneighths</key>
     <string>seveneighths.glif</string>
-    <key>shadelight</key>
-    <string>shadelight.glif</string>
-    <key>shademedium</key>
-    <string>shademedium.glif</string>
     <key>shcha-cy</key>
     <string>shcha-cy.glif</string>
     <key>sigma</key>

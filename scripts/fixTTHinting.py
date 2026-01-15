@@ -8,12 +8,15 @@ italic_referenceFontPath = "fonts/ttf/UbuntuSansMono-Italic.ttf"
 
 for fontfile in os.listdir(ttfs_fonts_dir):
     if fontfile.split(".")[-1] == "ttf":
+        inPath = outPath = os.path.join(ttfs_fonts_dir, fontfile)
+        if inPath in [roman_referenceFontPath, italic_referenceFontPath]:
+            continue
+
         args = []
         if "Italic" in fontfile:
             args.append("-R" + italic_referenceFontPath)
         else:
             args.append("-R" + roman_referenceFontPath)
-            
-        inPath = outPath = os.path.join(ttfs_fonts_dir, fontfile)
+
         ttfautohint(**ttfautohint_parse_args([inPath, outPath, *args]))
         print(f"Fixed TT hints {fontfile}")

@@ -2,6 +2,7 @@
 <glyph name="Ghook" format="2">
   <advance width="560"/>
   <unicode hex="0193"/>
+  <unicode hex="0260"/>
   <anchor x="280" y="0" name="bottom"/>
   <anchor x="280" y="685" name="top"/>
   <outline>

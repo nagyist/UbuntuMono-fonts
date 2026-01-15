@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>ballotBoxWithCheck</key>
+    <string>ballotB_oxW_ithC_heck.glif</string>
     <key>dotaccentcomb.i</key>
     <string>dotaccentcomb.i.glif</string>
     <key>hryvnia.osf</key>
@@ -14,6 +16,8 @@
     <string>published.glif</string>
     <key>rupeeIndian.osf</key>
     <string>rupeeI_ndian.osf.glif</string>
+    <key>shadedark</key>
+    <string>shadedark.glif</string>
     <key>sterling.osf</key>
     <string>sterling.osf.glif</string>
     <key>verticallinebelowcomb</key>

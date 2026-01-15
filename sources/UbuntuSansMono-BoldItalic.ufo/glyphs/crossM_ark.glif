@@ -3,20 +3,7 @@
   <advance width="560"/>
   <unicode hex="274C"/>
   <outline>
-    <contour>
-      <point x="39" y="0" type="line"/>
-      <point x="238" y="228" type="line"/>
-      <point x="437" y="0" type="line"/>
-      <point x="484" y="48" type="line"/>
-      <point x="283" y="280" type="line"/>
-      <point x="493" y="520" type="line"/>
-      <point x="444" y="569" type="line"/>
-      <point x="238" y="332" type="line"/>
-      <point x="32" y="569" type="line"/>
-      <point x="-17" y="520" type="line"/>
-      <point x="193" y="280" type="line"/>
-      <point x="-8" y="48" type="line"/>
-    </contour>
+    <component base="ballotX"/>
   </outline>
   <lib>
     <dict>
@@ -49,6 +36,8 @@
       </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>space</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>
